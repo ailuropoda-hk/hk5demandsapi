@@ -1,0 +1,6 @@
+private/
+backup/
+data/*.yaml
+vendor/
+hk5demandsapi
+hk5demandsapi.img
