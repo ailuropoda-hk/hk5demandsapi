@@ -111,6 +111,9 @@ func processVisualLink(mediaType string, mediaId string) (string, string, error)
   case "facebook-video":
     embedded = "https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/" + mediaId 
     url = "https://www.facebook.com/watch/?v=" + mediaId
+  case "facebook-photo":
+    embedded = "https://graph.facebook.com/" + mediaId + "/picture"
+    url = "https://www.facebook.com/watch/?v=" + mediaId
   default:
     return "", "", errors.New("Invalid Visual Type")
   }
@@ -141,6 +144,10 @@ func processFacebookVideoMeta(mediaId string) (string, string, int, int, error) 
   return "", "https://graph.facebook.com/" + mediaId + "/picture", 128 , 226, nil
 }
 
+func processFacebookPhotoMeta(mediaId string) (string, string, int, int, error) {
+  return "", "https://graph.facebook.com/" + mediaId + "/picture", 128 , 226, nil
+}
+
 func processVisualMeta(mediaType string, mediaId string) (string, string, int, int, error) {
   var source, thumbnail string
   var height, width int
@@ -151,6 +158,9 @@ func processVisualMeta(mediaType string, mediaId string) (string, string, int, i
     source += " on YouTube"
   case "facebook-video":
     source, thumbnail, height, width, err = processFacebookVideoMeta(mediaId)
+    source += " on Facebook"
+  case "facebook-photo":
+    source, thumbnail, height, width, err = processFacebookPhotoMeta(mediaId)
     source += " on Facebook"
   default:
     return "", "", 0, 0, errors.New("Invalid Visual Type")
@@ -179,6 +189,7 @@ func processSingleData(origData *VisualDataSourceStruct) {
     visualdata.Md5 = origData.Md5
     visualdata.Type = origData.Type
     visualdata.Event = origData.Event
+    visualdata.Category = origData.Category
     visualdata.Source = source
     visualdata.Url = url
     visualdata.Embedded = embedded
@@ -225,17 +236,29 @@ func loadVisualData(filepath string) error {
   return nil
 }
 
-func GetVisualData(locale string, event string) []VisualDataStruct {
+func GetVisualData(locale string, event string, cat string) []VisualDataStruct {
   var result []VisualDataStruct
   locale = checkLocale(locale)
-  if (event == "") {
-    result = VisualData[locale]
-  } else {
+  if (event != "" && cat != "") {
+    for i:=0; i<len(VisualData[locale]); i++{
+      if (VisualData[locale][i].Event == event && VisualData[locale][i].Category == cat) {
+        result = append(result, VisualData[locale][i])
+      }
+    }
+  } else if (event != ""){
     for i:=0; i<len(VisualData[locale]); i++{
       if (VisualData[locale][i].Event == event) {
         result = append(result, VisualData[locale][i])
       }
     }
+  } else if (cat != "") {
+    for i:=0; i<len(VisualData[locale]); i++{
+      if (VisualData[locale][i].Category == cat) {
+        result = append(result, VisualData[locale][i])
+      }
+    }
+  } else {
+    result = VisualData[locale]
   }
 
   return result
@@ -249,13 +272,3 @@ func checkLocale(locale string) string {
   }
   return DefaultLang
 }
-// https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=Kttt7itXNPA&format=xml
-// https://img.youtube.com/vi/pRV-r54EW60/0.jpg
-// "https://www.facebook.com/v2.3/plugins/video.php?allowfullscreen=true&autoplay=true&container_width=800&href=https%3A%2F%2Fwww.facebook.com%2Fredbull%2Fvideos%2F2490392937913800%2F&locale=en_US&sdk=joey"
-// https://www.facebook.com/v2.3/plugins/video.php?allowfullscreen=true&autoplay=true&container_width=800&href=https://www.facebook.com/redbull/videos/1481465645328140
-// https://graph.facebook.com/1481465645328140/picture
-
-// https://www.facebook.com/watch/?v=356361801967159
-// https://www.facebook.com/mark.ng.5832/videos/2411969999073855/?sfns=mo
-
-// https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/1481465645328140

@@ -17,7 +17,6 @@ then
   cd ../..
   docker build --rm -f ${DOCKER_FILE} -t ${IMAGE_TAG} .
   docker save -o ${PROJECT_NAME}.img ${IMAGE_TAG} 
-  # docker push ${IMAGE_TAG}
 else
   echo "Deployment Cancelled"
 fi

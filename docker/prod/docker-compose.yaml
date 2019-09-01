@@ -1,0 +1,13 @@
+version: '3.2'
+services:
+  web:
+    image: hk5demandsapi:4f75375
+    command: ./hk5demandsapi
+    restart: unless-stopped
+    environment:
+      - HTTP_PORT=8080
+    ports:
+      - '8080:8080'
+    volumes:
+      - /opt/hk5demandsapi/data:/usr/app/hk5demandsapi/data
+      

@@ -17,8 +17,9 @@ type ResponseStruct struct {
 func (c *ApiController) GetVisualData() {
   var locale = c.GetString("locale")
   var event = c.GetString("event")
+  var cat = c.GetString("cat")
   c.Data["json"] = ResponseStruct{
-    Data: data.GetVisualData(locale, event),
+    Data: data.GetVisualData(locale, event, cat),
   }
   c.ServeJSON()
 }
