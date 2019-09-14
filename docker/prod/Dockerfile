@@ -14,6 +14,11 @@ RUN go build
 
 FROM golang:1.13rc2-buster
 
+RUN apt-get update
+RUN apt-get install -y imagemagick
+RUN apt-get install -y ffmpeg
+RUN apt-get install -y youtube-dl
+
 WORKDIR /usr/app/hk5demandsapi
 COPY --from=builder /go/src/hk5demandsapi/hk5demandsapi .
 
@@ -23,4 +28,5 @@ COPY ./docker_scripts/docker-entrypoint.sh .
 RUN chmod +x docker-entrypoint.sh
 
 WORKDIR /usr/app/hk5demandsapi
+
 ENTRYPOINT ["docker-entrypoint.sh"]

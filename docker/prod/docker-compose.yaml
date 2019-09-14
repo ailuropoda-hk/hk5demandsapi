@@ -1,6 +1,6 @@
 version: '3.2'
 services:
-  web:
+  api:
     image: hk5demandsapi:4f75375
     command: ./hk5demandsapi
     restart: unless-stopped
@@ -9,5 +9,33 @@ services:
     ports:
       - '8080:8080'
     volumes:
-      - /opt/hk5demandsapi/data:/usr/app/hk5demandsapi/data
-      
+      - /opt/hk5demands/api/data:/usr/app/hk5demandsapi/data
+  web:
+    image: hk5demandsweb:fdf19ad
+    command: node ./bin/www
+    restart: unless-stopped
+    environment:
+      - HTTP_PORT=9091
+      - SERVERURL=http://host.docker.internal:8080
+    ports:
+      - '9091:9091'
+    depends_on:
+      - api
+    volumes:
+      - /opt/hk5demands/web/data:/usr/app/hk5demandsweb/data
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - api
+      - web
+    volumes:
+      - /opt/hk5demands/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+      - /opt/hk5demands/nginx/cert.pem:/etc/ssl/cert.pem
+      - /opt/hk5demands/nginx/key.pem:/etc/ssl/key.pem
+    links:
+      - api
+      - web
+    restart: always

@@ -1,0 +1,6022 @@
+- filename: ytub-YfK5aLFrpE8.mp4
+  csvno: 1
+  type: youtube
+  token: YfK5aLFrpE8
+  event: 428rally
+  cat: rally
+  date: 04-28-2019
+  source: SocREC 社會記錄頻道
+  url: https://www.youtube.com/watch?v=YfK5aLFrpE8
+  embedded: https://www.youtube.com/embed/YfK5aLFrpE8?rel=0
+  thumbnail: https://i.ytimg.com/vi/YfK5aLFrpE8/hqdefault.jpg
+  author: SocREC 社會記錄頻道 @ Tham
+  providerTitle: 28apr2019 撤回修訂「引渡條例」遊行 16:30-18:04 金鐘道天橋遊行隊伍人流情況
+  title:
+  - content: 撤回修訂「引渡條例」遊行
+    locale: zh-Hant
+  - content: Hong Kong anti-extradition bill procession (28/4)
+    locale: en
+  desc:
+  - content: 撤回修訂「引渡條例」金鐘道天橋遊行隊伍情況
+    locale: zh-Hant
+  - content: Queensway bridge
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 銅鑼灣
+    lat: 22.28251
+    lng: 114.18883
+  duration: 1798.874
+  tags:
+  - "428"
+  - 遊行
+  ts: 1556431200
+- filename: ytub-epTX8gGo-Jg.mkv
+  csvno: 2
+  type: youtube
+  token: epTX8gGo-Jg
+  event: 428rally
+  cat: rally
+  date: 04-28-2019
+  source: 我係香港人HongKonger
+  url: https://www.youtube.com/watch?v=epTX8gGo-Jg
+  embedded: https://www.youtube.com/embed/epTX8gGo-Jg?rel=0
+  thumbnail: https://i.ytimg.com/vi/epTX8gGo-Jg/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.04.28【反逃犯條例遊行 民陣宣布13萬人參與】警方估計 22800 人
+  title:
+  - content: 撤回修訂「引渡條例」遊行
+    locale: zh-Hant
+  - content: Hong Kong anti-extradition bill procession (28/4)
+    locale: en
+  desc:
+  - content: 民陣宣布13萬人參與 警方估計 22800 人
+    locale: zh-Hant
+  - content: 'CHRF: 130 thousands people join the procession ; HK police : 22.8 thousands
+      people'
+    locale: en
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: 銅鑼灣
+    lat: 22.28251
+    lng: 114.18883
+  duration: 17.484
+  tags:
+  - "428"
+  - 遊行
+  ts: 1556431200
+- filename: ytub-CoVbMq1fQ64.mkv
+  csvno: 4
+  type: youtube
+  token: CoVbMq1fQ64
+  event: 428rally
+  cat: announce-gov
+  date: 04-29-2019
+  source: 大千視界HK
+  url: https://www.youtube.com/watch?v=CoVbMq1fQ64
+  embedded: https://www.youtube.com/embed/CoVbMq1fQ64?rel=0
+  thumbnail: https://i.ytimg.com/vi/CoVbMq1fQ64/hqdefault.jpg
+  author: MVM
+  providerTitle: （現場直播）田北辰回應428遊行 建議加入外人移交 港人港審方案（29/4/2019）
+  title:
+  - content: 田北辰回應428遊行
+    locale: zh-Hant
+  - content: Michael Tien gives a response to 28/4 procession
+    locale: en
+  desc:
+  - content: 田北辰回應428遊行 建議加入外人移交 港人港審方案
+    locale: zh-Hant
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 金鐘
+    lat: 22.280602
+    lng: 114.16528
+  duration: 875.415
+  tags:
+  - "428"
+  - 遊行
+  - 政府回應
+  ts: 1556510400
+- filename: ytub-8HVEE3FoI_c.mp4
+  csvno: 5
+  type: youtube
+  token: 8HVEE3FoI_c
+  event: 721yuenlong
+  cat: potriad
+  date: 07-21-2019
+  source: 將軍澳人
+  url: https://www.youtube.com/watch?v=8HVEE3FoI_c
+  embedded: https://www.youtube.com/embed/8HVEE3FoI_c?rel=0
+  thumbnail: https://i.ytimg.com/vi/8HVEE3FoI_c/hqdefault.jpg
+  author: 將軍澳人
+  providerTitle: 721的元朗-警黑合作良好關係
+  title:
+  - content: 721元朗警黑合作
+    locale: zh-Hant
+  - content: Yuen Long attack
+    locale: en
+  desc:
+  - content: 721的元朗-警黑合作良好關係
+    locale: zh-Hant
+  - content: Police release gangsters with weapon
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 元朗
+    lat: 22.446112
+    lng: 114.03555
+  duration: 20.829
+  tags:
+  - "721"
+  - 警黑合作
+  - 違法行為
+  - 社團人士
+  - 光復元朗
+  ts: 1563744000
+- filename: ytub-2Ch_v5Jn9WA.mp4
+  csvno: 6
+  type: youtube
+  token: 2Ch_v5Jn9WA
+  event: 721yuenlong
+  cat: potriad
+  date: 07-21-2019
+  source: RFA 自由亞洲粵語
+  url: https://www.youtube.com/watch?v=2Ch_v5Jn9WA
+  embedded: https://www.youtube.com/embed/2Ch_v5Jn9WA?rel=0
+  thumbnail: https://i.ytimg.com/vi/2Ch_v5Jn9WA/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 7.21民陣大遊行 | 白衣人無差別打人　警方姍姍來遲
+  title:
+  - content: 721元朗警黑合作
+    locale: zh-Hant
+  - content: Yuen Long attack
+    locale: en
+  desc:
+  - content: 7.21民陣大遊行 | 白衣人無差別打人　警方姍姍來遲
+    locale: zh-Hant
+  - content: Why police come so late? Commander give you answer
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 元朗
+    lat: 22.446112
+    lng: 114.03555
+  duration: 73.561
+  tags:
+  - "721"
+  - 拒絕執法
+  - 李漢民
+  ts: 1563638400
+- filename: fbvi-1481465645328140.mp4
+  csvno: 7
+  type: facebook-video
+  token: "1481465645328140"
+  event: 825tktrally
+  cat: attackpress
+  date: 08-25-2019
+  source: 熱血時報
+  url: https://www.facebook.com/watch/?v=1481465645328140
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/1481465645328140
+  thumbnail: https://graph.facebook.com/1481465645328140/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 催淚彈入記者背囊
+    locale: zh-Hant
+  - content: A tear gas ammo is dropped into reporters' backpack
+    locale: en
+  desc:
+  - content: 片段於昨日（8月25日）在荃灣拍攝，除了見到傳說中球拍打催淚彈之外，更見到催淚彈直入記者背囊。
+    locale: zh-Hant
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: 荃灣
+    lat: 22.358164
+    lng: 114.12529
+  duration: 43.911
+  tags:
+  - 催淚彈
+  ts: 1566727200
+- filename: fbph-10157981951832448.jpg
+  csvno: 8
+  type: facebook-photo
+  token: "10157981951832448"
+  event: 823hkway
+  cat: motivate
+  date: 08-23-2019
+  source: 香港蘋果日報
+  url: https://www.facebook.com/10157981951832448
+  embedded: https://graph.facebook.com/10157981951832448/picture
+  thumbnail: https://graph.facebook.com/10157981951832448/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 獅子山亮燈
+    locale: zh-Hant
+  - content: The Hong Kong Way - Lion Rock
+    locale: en
+  desc:
+  - content: 香港之路觀星筆照亮獅子山
+    locale: zh-Hant
+  - content: Citizens uses laser pen to light up the lion rock
+    locale: en
+  dim:
+    height: 720
+    width: 720
+  location:
+    address: 獅子山下
+    lat: 22.352695
+    lng: 114.18751
+  duration: 0
+  tags: []
+  ts: 1566561600
+- filename: ytub-ZOUN8Cca_Lg.mkv
+  csvno: 9
+  type: youtube
+  token: ZOUN8Cca_Lg
+  event: 811tst
+  cat: poviolent
+  date: 08-11-2019
+  source: 香城教育電視 HKGETV
+  url: https://www.youtube.com/watch?v=ZOUN8Cca_Lg
+  embedded: https://www.youtube.com/embed/ZOUN8Cca_Lg?rel=0
+  thumbnail: https://i.ytimg.com/vi/ZOUN8Cca_Lg/hqdefault.jpg
+  author: 香城教育電視 HKGETV
+  providerTitle: The Investigation - 811事件（香港首部以科學分析還原紀錄片）
+  title:
+  - content: 科學分析811少女被布袋彈擊中
+    locale: zh-Hant
+  - content: The investigation - 811
+    locale: en
+  desc:
+  - content: 以科學方法，分析及還原11/8日所發生的情況
+    locale: zh-Hant
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 尖沙咀
+    lat: 22.302896
+    lng: 114.17093
+  duration: 508.621
+  tags:
+  - 布袋彈
+  ts: 1565521200
+- filename: ytub-y3iFiSiJYX4.mkv
+  csvno: 10
+  type: youtube
+  token: y3iFiSiJYX4
+  event: international
+  cat: internationalhelp
+  date: 06-27-2019
+  source: Idź Pod Prąd TV
+  url: https://www.youtube.com/watch?v=y3iFiSiJYX4
+  embedded: https://www.youtube.com/embed/y3iFiSiJYX4?rel=0
+  thumbnail: https://i.ytimg.com/vi/y3iFiSiJYX4/hqdefault.jpg
+  author: Idź Pod Prąd TV
+  providerTitle: 'Wolni Polacy wspierają #WolnyHongkong/Free Poles support #FreeHongKong'
+  title:
+  - content: 波蘭聲援香港反送中運動
+    locale: zh-Hant
+  - content: Pole supports Hong Kong protesters
+    locale: en
+  desc:
+  - content: 波蘭人拍晒片叫FreeHK支持香港
+    locale: zh-Hant
+  - content: Poles call 'FreeHK' to support Hong Kong protesters
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 波蘭
+    lat: 52.897842
+    lng: 18.697163
+  duration: 45.781
+  tags: []
+  ts: 1561608000
+- filename: ytub-IeqJb-d8mmc.mp4
+  csvno: 11
+  type: youtube
+  token: IeqJb-d8mmc
+  event: 818assembly
+  cat: assembly
+  date: 08-18-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=IeqJb-d8mmc
+  embedded: https://www.youtube.com/embed/IeqJb-d8mmc?rel=0
+  thumbnail: https://i.ytimg.com/vi/IeqJb-d8mmc/hqdefault.jpg
+  author: 有線電視 CABLE TV & 有線新聞 CABLE News
+  providerTitle: 818民陣流水式集會 參加者由維園行到中環遮打道；民陣：170萬人集會 警方：12.8萬人 - 有線新聞 i-CABLE News
+  title:
+  - content: 818民陣流水式集會
+    locale: zh-Hant
+  - content: Hong Kong anti-extradition bill procession (18/8)
+    locale: en
+  desc:
+  - content: 參加者由維園行到中環遮打道；民陣：170萬人集會 警方：12.8萬人
+    locale: zh-Hant
+  - content: 'CHRF: 1.7 million people join the procession ; HK police : 128 thousands
+      at peak'
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 金鐘
+    lat: 22.280602
+    lng: 114.16528
+  duration: 248.106
+  tags:
+  - "818"
+  - 維園集會
+  ts: 1566111600
+- filename: ytub-9DVyhx2cz3g.mp4
+  csvno: 12
+  type: youtube
+  token: 9DVyhx2cz3g
+  event: 818assembly
+  cat: assembly
+  date: 08-18-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=9DVyhx2cz3g
+  embedded: https://www.youtube.com/embed/9DVyhx2cz3g?rel=0
+  thumbnail: https://i.ytimg.com/vi/9DVyhx2cz3g/hqdefault.jpg
+  author: Now News
+  providerTitle: 【818集會】民陣：170萬人　警方：維園最高峰12 8萬
+  title:
+  - content: 818民陣流水式集會
+    locale: zh-Hant
+  - content: Hong Kong anti-extradition bill procession (18/8)
+    locale: en
+  desc:
+  - content: 民陣：170萬人　警方：維園最高峰12 8萬
+    locale: zh-Hant
+  - content: 'CHRF: 1.7 million people join the procession ; HK police : 128 thousands
+      at peak'
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 金鐘
+    lat: 22.280602
+    lng: 114.16528
+  duration: 241.906
+  tags:
+  - "818"
+  - 集會
+  ts: 1566111600
+- filename: ytub-843m59_yOUE.mp4
+  csvno: 13
+  type: youtube
+  token: 843m59_yOUE
+  event: 805strike
+  cat: strike
+  date: 08-05-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=843m59_yOUE
+  embedded: https://www.youtube.com/embed/843m59_yOUE?rel=0
+  thumbnail: https://i.ytimg.com/vi/843m59_yOUE/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: （全港大罷工）一名女示威者在大埔太和路被捕後哭叫：你都見到我攞住支鹽水
+  title:
+  - content: 805全港大罷工
+    locale: zh-Hant
+  - content: Hong Kong 805 strike
+    locale: en
+  desc:
+  - content: 一名女示威者在大埔太和路被捕後哭叫：你都見到我攞住支鹽水
+    locale: zh-Hant
+  - content: 'An arrested protester : I am carrying a salt water only'
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 大埔
+    lat: 22.451773
+    lng: 114.16453
+  duration: 93.948
+  tags: []
+  ts: 1565010000
+- filename: ytub-Nd1NhPA8z60.mp4
+  csvno: 14
+  type: youtube
+  token: Nd1NhPA8z60
+  event: 805strike
+  cat: strike
+  date: 08-05-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Nd1NhPA8z60
+  embedded: https://www.youtube.com/embed/Nd1NhPA8z60?rel=0
+  thumbnail: https://i.ytimg.com/vi/Nd1NhPA8z60/hqdefault.jpg
+  author: 看中國 Vision Times
+  providerTitle: 【記錄】805大埔太和路：警方施放大量催淚彈
+  title:
+  - content: 805大埔太和路
+    locale: zh-Hant
+  - content: Hong Kong 805 strike (Tai Po)
+    locale: en
+  desc:
+  - content: 警方施放大量催淚彈
+    locale: zh-Hant
+  - content: Police release tear gas in Tai Po
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 大埔
+    lat: 22.451773
+    lng: 114.16453
+  duration: 790.524
+  tags: []
+  ts: 1565010000
+- filename: ytub-XXl4fjguDBI.mp4
+  csvno: 15
+  type: youtube
+  token: XXl4fjguDBI
+  event: 812airport
+  cat: movement
+  date: 08-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=XXl4fjguDBI
+  embedded: https://www.youtube.com/embed/XXl4fjguDBI?rel=0
+  thumbnail: https://i.ytimg.com/vi/XXl4fjguDBI/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 【8.12】機場網絡擠塞 氣氛異常緊張
+  title:
+  - content: 812機場和你塞
+    locale: zh-Hant
+  - content: Occupy airport movement
+    locale: en
+  desc:
+  - content: 機場網絡擠塞 氣氛異常緊張
+    locale: zh-Hant
+  - content: Network in airport is jammed, the place become tense
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: 機場
+    lat: 22.315733
+    lng: 113.93614
+  duration: 100.148
+  tags:
+  - 機場
+  ts: 1565600400
+- filename: ytub-jt1IzQRxPJc.mkv
+  csvno: 16
+  type: youtube
+  token: jt1IzQRxPJc
+  event: unclassified
+  cat: announce-lihkg
+  date: 08-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=jt1IzQRxPJc
+  embedded: https://www.youtube.com/embed/jt1IzQRxPJc?rel=0
+  thumbnail: https://i.ytimg.com/vi/jt1IzQRxPJc/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 第七次的民間記者會「民調敲響施政警鐘」及「監控城市：香港」
+  title:
+  - content: 第七次的民間記者會
+    locale: zh-Hant
+  - content: Citizen's press conference 7
+    locale: en
+  desc:
+  - content: 「民調敲響施政警鐘」及「監控城市：香港」
+    locale: zh-Hant
+  - content: '" " and "Hong Kong -- A monitored city"'
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 4621.676
+  tags: []
+  ts: 1566453600
+- filename: ytub-w6O1sEco8zk.mp4
+  csvno: 17
+  type: youtube
+  token: w6O1sEco8zk
+  event: 819poviolent
+  cat: announce-demo
+  date: 08-19-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=w6O1sEco8zk
+  embedded: https://www.youtube.com/embed/w6O1sEco8zk?rel=0
+  thumbnail: https://i.ytimg.com/vi/w6O1sEco8zk/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: 「直播」民主黨議員林卓廷揭露警員施行私刑記者會
+  title:
+  - content: 民主黨議員林卓廷記者會
+    locale: zh-Hant
+  - content: Lam Cheuk Ting press conference
+    locale: en
+  desc:
+  - content: 民主黨議員林卓廷揭露警員施行私刑記者會
+    locale: zh-Hant
+  - content: '"Abusing suspects" conference'
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 5365.064
+  tags: []
+  ts: 1566266400
+- filename: ytub-zpWtSHW7zq0.mkv
+  csvno: 18
+  type: youtube
+  token: zpWtSHW7zq0
+  event: unclassified
+  cat: announce-po
+  date: 08-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=zpWtSHW7zq0
+  embedded: https://www.youtube.com/embed/zpWtSHW7zq0?rel=0
+  thumbnail: https://i.ytimg.com/vi/zpWtSHW7zq0/hqdefault.jpg
+  author: 通視
+  providerTitle: 【直播】8月12日下午3時半 香港警方記者會
+  title:
+  - content: 警方例行記者會
+    locale: zh-Hant
+  - content: Hong Kong police press conference
+    locale: en
+  desc:
+  - content: 警務處副處長（行動）鄧炳強、警務處助理處長（行動）麥展豪、警察公共關係科總警司謝振中、有組織罪案及三合會調查科高級警司李桂華及警察公共關係科高級警司（媒體聯絡及傳訊）江永祥
+    locale: zh-Hant
+  - content: Hong Kong police press conference
+    locale: en
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 10147.821
+  tags: []
+  ts: 1565593200
+- filename: ytub-z9Ltt4LdIDk.mp4
+  csvno: 19
+  type: youtube
+  token: z9Ltt4LdIDk
+  event: 831pedward
+  cat: poviolent
+  date: 08-31-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=z9Ltt4LdIDk
+  embedded: https://www.youtube.com/embed/z9Ltt4LdIDk?rel=0
+  thumbnail: https://i.ytimg.com/vi/z9Ltt4LdIDk/hqdefault.jpg
+  author: 有線電視 CABLE TV & 有線新聞 CABLE News
+  providerTitle: 太子831 - 速龍小隊衝落太子站月台拘捕多人 車廂內多人頭破血流 有人掩著後腦 - 20190831 - 香港新聞 - 有線新聞
+    i-CABLE News
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 242.974
+  tags: []
+  ts: 0
+- filename: ytub-TLLG1Hehf7w.webm
+  csvno: 20
+  type: youtube
+  token: TLLG1Hehf7w
+  event: 331rally
+  cat: rally
+  date: 03-31-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=TLLG1Hehf7w
+  embedded: https://www.youtube.com/embed/TLLG1Hehf7w?rel=0
+  thumbnail: https://i.ytimg.com/vi/TLLG1Hehf7w/hqdefault.jpg
+  author: Alan Lun
+  providerTitle: 3月31日下午3點由民間人權陣線發起反特衰政府修訂移交逃犯條例大遊行示威，超過2萬人浩浩蕩蕩由灣仔盧押道至政府公民廣埸集會！
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 198.881
+  tags: []
+  ts: 0
+- filename: ytub-HAFYd6fFq2c.mp4
+  csvno: 21
+  type: youtube
+  token: HAFYd6fFq2c
+  event: 331rally
+  cat: rally
+  date: 03-31-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=HAFYd6fFq2c
+  embedded: https://www.youtube.com/embed/HAFYd6fFq2c?rel=0
+  thumbnail: https://i.ytimg.com/vi/HAFYd6fFq2c/hqdefault.jpg
+  author: People Power
+  providerTitle: 【反修例遊行】20190331 反對修改《逃犯條例》遊行，林鄭賊婆假仁假義假慈悲，與李家超一齊食人血饅頭
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1008.699
+  tags: []
+  ts: 0
+- filename: fbvi-643325216168581.mp4
+  csvno: 22
+  type: facebook-video
+  token: "643325216168581"
+  event: unclassified
+  cat: strike
+  date: unknown
+  source: 夜貓-TheOwl
+  url: https://www.facebook.com/watch/?v=643325216168581
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/643325216168581
+  thumbnail: https://graph.facebook.com/643325216168581/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 罷工/罷課是如何鍊成的
+    locale: zh-Hant
+  - content: How strike can formed?
+    locale: en
+  desc:
+  - content: 美國2018年橫跨數個州的大型教育罷工潮，有甚麼值得參考?
+    locale: zh-Hant
+  - content: According to a strike in America, what we can do?
+    locale: en
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 5578.401
+  tags: []
+  ts: 0
+- filename: ytub-2IAQmKJG_sE.mkv
+  csvno: 23
+  type: youtube
+  token: 2IAQmKJG_sE
+  event: unclassified
+  cat: movement
+  date: unknown
+  source: BBC-中文
+  url: https://www.youtube.com/watch?v=2IAQmKJG_sE
+  embedded: https://www.youtube.com/embed/2IAQmKJG_sE?rel=0
+  thumbnail: https://i.ytimg.com/vi/2IAQmKJG_sE/hqdefault.jpg
+  author: BBC News 中文
+  providerTitle: 香港「反送中」運動：一片看清兩個月來的暴力僵局－ BBC News 中文
+  title:
+  - content: 香港「反送中」運動：一片看清兩個月來的暴力僵局
+    locale: zh-Hant
+  - content: How impasse form during these two months?
+    locale: en
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 384.381
+  tags: []
+  ts: 0
+- filename: ytub-TtUux1kgkeE.mp4
+  csvno: 24
+  type: youtube
+  token: TtUux1kgkeE
+  event: 831pedward
+  cat: overarrest
+  date: 08-31-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=TtUux1kgkeE
+  embedded: https://www.youtube.com/embed/TtUux1kgkeE?rel=0
+  thumbnail: https://i.ytimg.com/vi/TtUux1kgkeE/hqdefault.jpg
+  author: Pom Pom
+  providerTitle: 831太子警察插贓嫁禍
+  title:
+  - content: 831太子警察插贓嫁禍
+    locale: zh-Hant
+  - content: A police is planting evidence to a citizen
+    locale: en
+  desc:
+  - content: 有警察將一個從別處執到的防毒面罩放到被捕人士手上，意圖想透過指紋陷害被捕人士。
+    locale: zh-Hant
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 54.916
+  tags: []
+  ts: 0
+- filename: ytub-OU2Dyj3_fZk.mkv
+  csvno: 25
+  type: youtube
+  token: OU2Dyj3_fZk
+  event: 830arrest
+  cat: overarrest
+  date: 08-30-2019
+  source: 香港蘋果日報
+  url: https://www.youtube.com/watch?v=OU2Dyj3_fZk
+  embedded: https://www.youtube.com/embed/OU2Dyj3_fZk?rel=0
+  thumbnail: https://i.ytimg.com/vi/OU2Dyj3_fZk/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 【830 大搜捕日】一日內多人被捕 眾志副主席斥港府自製「大台」：拉畀中共睇（附拘控名單）
+  title:
+  - content: 一日內多人被捕
+    locale: zh-Hant
+  - content: 8 people is arrested in 30/8
+    locale: en
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 160.081
+  tags: []
+  ts: 0
+- filename: ytub-zfPr_R8q7YU.mkv
+  csvno: 26
+  type: youtube
+  token: zfPr_R8q7YU
+  event: 721yuenlong
+  cat: potriad
+  date: 07-21-2019
+  source: am730
+  url: https://www.youtube.com/watch?v=zfPr_R8q7YU
+  embedded: https://www.youtube.com/embed/zfPr_R8q7YU?rel=0
+  thumbnail: https://i.ytimg.com/vi/zfPr_R8q7YU/hqdefault.jpg
+  author: am730
+  providerTitle: 【元朗黑夜】何君堯與白衣人握手稱「你哋係我英雄」
+  title:
+  - content: 何君堯與白衣人握手稱「你哋係我英雄」
+    locale: zh-Hant
+  - content: Junius Ho Kwan-yiu shaked hands with attackers in yuenlong,"You are my
+      hero"
+    locale: en
+  desc:
+  - content: 何君堯被拍到與懷疑白衣攻擊者代表握手
+    locale: zh-Hant
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 21.261
+  tags: []
+  ts: 0
+- filename: ytub-16CiwPChpr0.mkv
+  csvno: 27
+  type: youtube
+  token: 16CiwPChpr0
+  event: 721yuenlong
+  cat: potriad
+  date: 07-21-2019
+  source: 香港電台
+  url: https://www.youtube.com/watch?v=16CiwPChpr0
+  embedded: https://www.youtube.com/embed/16CiwPChpr0?rel=0
+  thumbnail: https://i.ytimg.com/vi/16CiwPChpr0/hqdefault.jpg
+  author: RTHK 香港電台
+  providerTitle: 鏗鏘集：721元朗黑夜
+  title:
+  - content: 鏗鏘集：721元朗黑夜
+    locale: zh-Hant
+  - content: 721:yuen long attack
+    locale: en
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1297.101
+  tags: []
+  ts: 0
+- filename: ytub-oSwf4r_SRXY.mkv
+  csvno: 28
+  type: youtube
+  token: oSwf4r_SRXY
+  event: 213extradition
+  cat: editorial
+  date: 03-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=oSwf4r_SRXY
+  embedded: https://www.youtube.com/embed/oSwf4r_SRXY?rel=0
+  thumbnail: https://i.ytimg.com/vi/oSwf4r_SRXY/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 【移交逃犯‧2D睇】4分鐘懶人包圖解修例 市民隨時送內地受審？
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 228.981
+  tags: []
+  ts: 0
+- filename: ytub-pyItZDQDvyo.mkv
+  csvno: 29
+  type: youtube
+  token: pyItZDQDvyo
+  event: 213extradition
+  cat: editorial
+  date: 02-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=pyItZDQDvyo
+  embedded: https://www.youtube.com/embed/pyItZDQDvyo?rel=0
+  thumbnail: https://i.ytimg.com/vi/pyItZDQDvyo/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 【移交逃犯】阿爺要政治犯香港無say 魔鬼細節小心中伏
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 151.421
+  tags: []
+  ts: 0
+- filename: ytub-sVhOfeoYJBw.mkv
+  csvno: 30
+  type: youtube
+  token: sVhOfeoYJBw
+  event: 213extradition
+  cat: announce-demo
+  date: 02-13-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=sVhOfeoYJBw
+  embedded: https://www.youtube.com/embed/sVhOfeoYJBw?rel=0
+  thumbnail: https://i.ytimg.com/vi/sVhOfeoYJBw/hqdefault.jpg
+  author: 希望之聲國際廣播電台 SOH Current Affairs Comments 新聞熱點/名家談時事
+  providerTitle: 民主派批港府修例將疑犯移交大陸損害人權和一國兩制
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 128.201
+  tags: []
+  ts: 0
+- filename: ytub-kPADp4weMY8.mp4
+  csvno: 31
+  type: youtube
+  token: kPADp4weMY8
+  event: unclassified
+  cat: poabuse
+  date: 08-27-2019
+  source: 明報
+  url: https://www.youtube.com/watch?v=kPADp4weMY8
+  embedded: https://www.youtube.com/embed/kPADp4weMY8?rel=0
+  thumbnail: https://i.ytimg.com/vi/kPADp4weMY8/hqdefault.jpg
+  author: MPWeekly明周
+  providerTitle: 【現役警員】支持獨立調查   我以香港年輕人為榮（中英字幕／English subtitles available)
+  title:
+  - content: 【現役警員】支持獨立調查 我以香港年輕人為榮
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 401.102
+  tags: []
+  ts: 0
+- filename: ytub-y7yRDOLCy4Y.mp4
+  csvno: 32
+  type: youtube
+  token: y7yRDOLCy4Y
+  event: unclassified
+  cat: motivate
+  date: unknown
+  source: ""
+  url: https://www.youtube.com/watch?v=y7yRDOLCy4Y
+  embedded: https://www.youtube.com/embed/y7yRDOLCy4Y?rel=0
+  thumbnail: https://i.ytimg.com/vi/y7yRDOLCy4Y/hqdefault.jpg
+  author: dgx dgx
+  providerTitle: 《願榮光歸香港》原版  《Glory to Hong Kong》First version (with ENG subs)
+  title:
+  - content: 願榮光歸香港
+    locale: zh-Hant
+  - content: 'Song : Glory to Hong Kong'
+    locale: en
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 110.063
+  tags: []
+  ts: 0
+- filename: ytub-7ByhGrpWD0Q.mp4
+  csvno: 33
+  type: youtube
+  token: 7ByhGrpWD0Q
+  event: 831assembly
+  cat: movement
+  date: 08-31-2019
+  source: financial time
+  url: https://www.youtube.com/watch?v=7ByhGrpWD0Q
+  embedded: https://www.youtube.com/embed/7ByhGrpWD0Q?rel=0
+  thumbnail: https://i.ytimg.com/vi/7ByhGrpWD0Q/hqdefault.jpg
+  author: Financial Times
+  providerTitle: Why Hong Kong's 'water revolution' is spiralling out of control |
+    FT
+  title:
+  - content: Why Hong Kong's 'water revolution' is spiralling out of control
+    locale: en
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 184.831
+  tags: []
+  ts: 0
+- filename: ytub-08GDQCiU8uU.mp4
+  csvno: 34
+  type: youtube
+  token: 08GDQCiU8uU
+  event: 831pedward
+  cat: poviolent
+  date: 08-31-2019
+  source: South China Morning Post
+  url: https://www.youtube.com/watch?v=08GDQCiU8uU
+  embedded: https://www.youtube.com/embed/08GDQCiU8uU?rel=0
+  thumbnail: https://i.ytimg.com/vi/08GDQCiU8uU/hqdefault.jpg
+  author: South China Morning Post
+  providerTitle: Chaos on Hong Kong’s MTR network as police beat people on train
+  title:
+  - content: Chaos on Hong Kong’s MTR network as police beat people on train
+    locale: en
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 190.427
+  tags: []
+  ts: 0
+- filename: ytub-UONvYxJU3DY.mkv
+  csvno: 35
+  type: youtube
+  token: UONvYxJU3DY
+  event: 616rally
+  cat: rally
+  date: 06-16-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=UONvYxJU3DY
+  embedded: https://www.youtube.com/embed/UONvYxJU3DY?rel=0
+  thumbnail: https://i.ytimg.com/vi/UONvYxJU3DY/hqdefault.jpg
+  author: 奥斯卡朱
+  providerTitle: 616反送中遊行縮時片段(灣仔軒尼斯道)
+  title:
+  - content: 616反送中遊行縮時片段(灣仔軒尼斯道)
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 117.191
+  tags: []
+  ts: 0
+- filename: fbvi-2317828338312880.mp4
+  csvno: 36
+  type: facebook-video
+  token: "2317828338312880"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2317828338312880
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2317828338312880
+  thumbnail: https://graph.facebook.com/2317828338312880/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 352
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 8.643
+  tags: []
+  ts: 0
+- filename: fbvi-583776568822246.mp4
+  csvno: 37
+  type: facebook-video
+  token: "583776568822246"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=583776568822246
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/583776568822246
+  thumbnail: https://graph.facebook.com/583776568822246/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 848
+    width: 672
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 16.326
+  tags: []
+  ts: 0
+- filename: fbvi-2248761415369339.mp4
+  csvno: 38
+  type: facebook-video
+  token: "2248761415369339"
+  event: 901mourn
+  cat: poviolent
+  date: 09-02-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2248761415369339
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2248761415369339
+  thumbnail: https://graph.facebook.com/2248761415369339/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 9月2日警察屈斷市民手骨過程
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 25.66
+  tags: []
+  ts: 0
+- filename: fbvi-662605780890524.mp4
+  csvno: 39
+  type: facebook-video
+  token: "662605780890524"
+  event: 831pedward
+  cat: pounlawful
+  date: 08-31-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=662605780890524
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/662605780890524
+  thumbnail: https://graph.facebook.com/662605780890524/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1920
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 28.012
+  tags: []
+  ts: 0
+- filename: fbvi-431695384221650.mp4
+  csvno: 40
+  type: facebook-video
+  token: "431695384221650"
+  event: 901mtr
+  cat: poabuse
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=431695384221650
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/431695384221650
+  thumbnail: https://graph.facebook.com/431695384221650/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 352
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 210.899
+  tags: []
+  ts: 0
+- filename: fbvi-676712196161054.mp4
+  csvno: 41
+  type: facebook-video
+  token: "676712196161054"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=676712196161054
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/676712196161054
+  thumbnail: https://graph.facebook.com/676712196161054/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 1252
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 203.246
+  tags: []
+  ts: 0
+- filename: fbvi-476254643217507.mp4
+  csvno: 42
+  type: facebook-video
+  token: "476254643217507"
+  event: 908rally
+  cat: attackpress
+  date: 09-08-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=476254643217507
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/476254643217507
+  thumbnail: https://graph.facebook.com/476254643217507/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc:
+  - content: 銅鑼灣D2出口 防暴離開地鐵站後立即隨手拋出催淚彈，襲擊記者及路人。
+    locale: zh-Hant
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 34.205
+  tags: []
+  ts: 0
+- filename: fbvi-10157182661085199.mp4
+  csvno: 43
+  type: facebook-video
+  token: "10157182661085199"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=10157182661085199
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/10157182661085199
+  thumbnail: https://graph.facebook.com/10157182661085199/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 96.934
+  tags: []
+  ts: 0
+- filename: fbvi-10219891030125071.mp4
+  csvno: 44
+  type: facebook-video
+  token: "10219891030125071"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=10219891030125071
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/10219891030125071
+  thumbnail: https://graph.facebook.com/10219891030125071/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 10.276
+  tags: []
+  ts: 0
+- filename: fbvi-1878058365674228.mp4
+  csvno: 45
+  type: facebook-video
+  token: "1878058365674228"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=1878058365674228
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/1878058365674228
+  thumbnail: https://graph.facebook.com/1878058365674228/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 352
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 8.634
+  tags: []
+  ts: 0
+- filename: fbph-2957654284251901.jpg
+  csvno: 46
+  type: facebook-photo
+  token: "2957654284251901"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/2957654284251901
+  embedded: https://graph.facebook.com/2957654284251901/picture
+  thumbnail: https://graph.facebook.com/2957654284251901/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 371
+    width: 720
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: fbph-2957654307585232.jpg
+  csvno: 47
+  type: facebook-photo
+  token: "2957654307585232"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/2957654307585232
+  embedded: https://graph.facebook.com/2957654307585232/picture
+  thumbnail: https://graph.facebook.com/2957654307585232/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 581
+    width: 720
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: fbph-2431387540281388.jpg
+  csvno: 48
+  type: facebook-photo
+  token: "2431387540281388"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/2431387540281388
+  embedded: https://graph.facebook.com/2431387540281388/picture
+  thumbnail: https://graph.facebook.com/2431387540281388/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 480
+    width: 718
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: fbvi-513572885882550.mp4
+  csvno: 49
+  type: facebook-video
+  token: "513572885882550"
+  event: 901mourn
+  cat: movement
+  date: 09-06-2019
+  source: HKFP
+  url: https://www.facebook.com/watch/?v=513572885882550
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/513572885882550
+  thumbnail: https://graph.facebook.com/513572885882550/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 9.06 Angry crowds gather in Mong Kok as police fire tear gas
+    locale: en
+  desc: []
+  dim:
+    height: 480
+    width: 854
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1568.766
+  tags: []
+  ts: 0
+- filename: fbvi-2552088714849429.mp4
+  csvno: 50
+  type: facebook-video
+  token: "2552088714849429"
+  event: 901mourn
+  cat: attackpress
+  date: 09-07-2019
+  source: HKFP
+  url: https://www.facebook.com/watch/?v=2552088714849429
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2552088714849429
+  thumbnail: https://graph.facebook.com/2552088714849429/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 9.07 Hong Kong police pepper-spray a group of journalists in Mong Kok
+    locale: en
+  desc:
+  - content: Hong Kong police pepper-sprayed a group of journalists in Mong Kok -
+      including an HKFP reporter - whilst pushing them away from an area where arrests
+      were taking place.
+    locale: en
+  dim:
+    height: 940
+    width: 940
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 124.994
+  tags: []
+  ts: 0
+- filename: ytub-GRCAg0yTuZQ.mp4
+  csvno: 51
+  type: youtube
+  token: GRCAg0yTuZQ
+  event: unclassified
+  cat: announce-gov
+  date: 09-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=GRCAg0yTuZQ
+  embedded: https://www.youtube.com/embed/GRCAg0yTuZQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/GRCAg0yTuZQ/hqdefault.jpg
+  author: 好片分享
+  providerTitle: 路透社 林鄭錄音流出：she would 'quit' if she can!
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 288.485
+  tags: []
+  ts: 0
+- filename: fbvi-542438753192447.mp4
+  csvno: 52
+  type: facebook-video
+  token: "542438753192447"
+  event: 908rally
+  cat: attackpress
+  date: 09-08-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=542438753192447
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/542438753192447
+  thumbnail: https://graph.facebook.com/542438753192447/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc:
+  - content: 銅鑼灣D2出口 防暴離開地鐵站後立即隨手拋出催淚彈，襲擊記者及路人。
+    locale: zh-Hant
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 34.344
+  tags: []
+  ts: 0
+- filename: fbvi-10220161087720366.mp4
+  csvno: 53
+  type: facebook-video
+  token: "10220161087720366"
+  event: 908rally
+  cat: poabuse
+  date: 09-08-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=10220161087720366
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/10220161087720366
+  thumbnail: https://graph.facebook.com/10220161087720366/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 男警於大埔搜女士身
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 828
+    width: 1792
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 25.658
+  tags: []
+  ts: 0
+- filename: fbvi-1316436365186636.mp4
+  csvno: 54
+  type: facebook-video
+  token: "1316436365186636"
+  event: 616rally
+  cat: motivate
+  date: 06-16-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=1316436365186636
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/1316436365186636
+  thumbnail: https://graph.facebook.com/1316436365186636/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 遊行人士讓路予救護車及巴士
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 87.007
+  tags: []
+  ts: 0
+- filename: fbvi-2316327245151999.mp4
+  csvno: 55
+  type: facebook-video
+  token: "2316327245151999"
+  event: 901mourn
+  cat: poviolent
+  date: 09-08-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2316327245151999
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2316327245151999
+  thumbnail: https://graph.facebook.com/2316327245151999/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc:
+  - content: 9.08 警員在旺角一帶驅散的時候，故意用警棍拍打放在一旁的飲品，極不禮貌。
+    locale: zh-Hant
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 53.663
+  tags: []
+  ts: 0
+- filename: ytub-vp80x5NYb_M.mp4
+  csvno: 56
+  type: youtube
+  token: vp80x5NYb_M
+  event: 901mourn
+  cat: pounlawful
+  date: 09-08-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=vp80x5NYb_M
+  embedded: https://www.youtube.com/embed/vp80x5NYb_M?rel=0
+  thumbnail: https://i.ytimg.com/vi/vp80x5NYb_M/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 【9.8直播實錄】防暴警收隊講：同志齊，同志齊，走得。
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 48.066
+  tags: []
+  ts: 0
+- filename: fbvi-10157579174814764.mp4
+  csvno: 57
+  type: facebook-video
+  token: "10157579174814764"
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=10157579174814764
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/10157579174814764
+  thumbnail: https://graph.facebook.com/10157579174814764/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 55.614
+  tags: []
+  ts: 0
+- filename: ytub-Zj8gvoq4YJc.mp4
+  csvno: 58
+  type: youtube
+  token: Zj8gvoq4YJc
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Zj8gvoq4YJc
+  embedded: https://www.youtube.com/embed/Zj8gvoq4YJc?rel=0
+  thumbnail: https://i.ytimg.com/vi/Zj8gvoq4YJc/hqdefault.jpg
+  author: BBC News 中文
+  providerTitle: 香港反送中抗議：200間中學學生上課前分區築人鏈 － BBC News 中文
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 91.603
+  tags: []
+  ts: 0
+- filename: ytub-5t_EGGBLTAs.mkv
+  csvno: 59
+  type: youtube
+  token: 5t_EGGBLTAs
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=5t_EGGBLTAs
+  embedded: https://www.youtube.com/embed/5t_EGGBLTAs?rel=0
+  thumbnail: https://i.ytimg.com/vi/5t_EGGBLTAs/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 【逆權運動】 全港近百中學築人鏈 促回應五大訴求
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 3832.101
+  tags: []
+  ts: 0
+- filename: fbvi-503079700468776.mp4
+  csvno: 60
+  type: facebook-video
+  token: "503079700468776"
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=503079700468776
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/503079700468776
+  thumbnail: https://graph.facebook.com/503079700468776/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 360
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 84.081
+  tags: []
+  ts: 0
+- filename: ytub-Mk8J8iYg9l8.webm
+  csvno: 61
+  type: youtube
+  token: Mk8J8iYg9l8
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Mk8J8iYg9l8
+  embedded: https://www.youtube.com/embed/Mk8J8iYg9l8?rel=0
+  thumbnail: https://i.ytimg.com/vi/Mk8J8iYg9l8/hqdefault.jpg
+  author: MPWeekly明周
+  providerTitle: 反送中三個月 中學生莘莘學子以人鏈繼續發聲：做正確的事不會怕
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 241.601
+  tags: []
+  ts: 0
+- filename: fbvi-451448749049758.mp4
+  csvno: 62
+  type: facebook-video
+  token: "451448749049758"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=451448749049758
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/451448749049758
+  thumbnail: https://graph.facebook.com/451448749049758/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 156.667
+  tags: []
+  ts: 0
+- filename: fbvi-2980149468668825.mp4
+  csvno: 63
+  type: facebook-video
+  token: "2980149468668825"
+  event: unclassified
+  cat: motivate
+  date: 09-08-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2980149468668825
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2980149468668825
+  thumbnail: https://graph.facebook.com/2980149468668825/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 220
+    width: 400
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 50.37
+  tags: []
+  ts: 0
+- filename: ytub-teC8YAlXfmA.mp4
+  csvno: 64
+  type: youtube
+  token: teC8YAlXfmA
+  event: unclassified
+  cat: posupport
+  date: 09-08-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=teC8YAlXfmA
+  embedded: https://www.youtube.com/embed/teC8YAlXfmA?rel=0
+  thumbnail: https://i.ytimg.com/vi/teC8YAlXfmA/hqdefault.jpg
+  author: Avi Yemini
+  providerTitle: Why this proud Chinese man confronted me on the street
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 437.813
+  tags: []
+  ts: 0
+- filename: ytub-_E9U--8_9VU.mp4
+  csvno: 65
+  type: youtube
+  token: _E9U--8_9VU
+  event: unclassified
+  cat: internationalhelp
+  date: 08-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=_E9U--8_9VU
+  embedded: https://www.youtube.com/embed/_E9U--8_9VU?rel=0
+  thumbnail: https://i.ytimg.com/vi/_E9U--8_9VU/hqdefault.jpg
+  author: Rebel Media
+  providerTitle: 'Rebel Media in Hong Kong: Avi Yemini’s final thoughts on protests
+    | Avi Yemini'
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 470.158
+  tags: []
+  ts: 0
+- filename: ytub-byzxKc50OCU.mp4
+  csvno: 66
+  type: youtube
+  token: byzxKc50OCU
+  event: unclassified
+  cat: assembly
+  date: 08-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=byzxKc50OCU
+  embedded: https://www.youtube.com/embed/byzxKc50OCU?rel=0
+  thumbnail: https://i.ytimg.com/vi/byzxKc50OCU/hqdefault.jpg
+  author: Rebel Media
+  providerTitle: 'Catholic priest in Hong Kong: Moral, financial reasons to support
+    protest | Avi Yemini'
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 268.864
+  tags: []
+  ts: 0
+- filename: ytub-Jsa-QQz5muU.mp4
+  csvno: 67
+  type: youtube
+  token: Jsa-QQz5muU
+  event: 831pedward
+  cat: poviolent
+  date: 08-31-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Jsa-QQz5muU
+  embedded: https://www.youtube.com/embed/Jsa-QQz5muU?rel=0
+  thumbnail: https://i.ytimg.com/vi/Jsa-QQz5muU/hqdefault.jpg
+  author: 國情
+  providerTitle: 《鏗鏘集》濫暴？ (2019-9-9)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1290.816
+  tags: []
+  ts: 0
+- filename: fbvi-351969269043337.mp4
+  csvno: 68
+  type: facebook-video
+  token: "351969269043337"
+  event: 901mtr
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=351969269043337
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/351969269043337
+  thumbnail: https://graph.facebook.com/351969269043337/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 194.005
+  tags: []
+  ts: 0
+- filename: fbvi-350054112538712.mp4
+  csvno: 69
+  type: facebook-video
+  token: "350054112538712"
+  event: unclassified
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=350054112538712
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/350054112538712
+  thumbnail: https://graph.facebook.com/350054112538712/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 79.484
+  tags: []
+  ts: 0
+- filename: fbvi-609364662925852.mp4
+  csvno: 70
+  type: facebook-video
+  token: "609364662925852"
+  event: 831pedward
+  cat: poviolent
+  date: 08-31-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=609364662925852
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/609364662925852
+  thumbnail: https://graph.facebook.com/609364662925852/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 346.135
+  tags: []
+  ts: 0
+- filename: fbvi-2359614630801146.mp4
+  csvno: 71
+  type: facebook-video
+  token: "2359614630801146"
+  event: unclassified
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2359614630801146
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2359614630801146
+  thumbnail: https://graph.facebook.com/2359614630801146/picture
+  author: ""
+  providerTitle: ""
+  title:
+  - content: 太古城中心
+    locale: zh-Hant
+  desc:
+  - content: 9月9日，有市民發起晚上 10 時在太古城中心高唱歌曲「我願榮光歸香港」。未到晚上 10 時，已有數百人高叫「光復香港 時代革命」等口號。
+    locale: zh-Hant
+  dim:
+    height: 360
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 2575.232
+  tags: []
+  ts: 0
+- filename: fbvi-127551558592838.mp4
+  csvno: 72
+  type: facebook-video
+  token: "127551558592838"
+  event: 908rally
+  cat: poviolent
+  date: 09-08-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=127551558592838
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/127551558592838
+  thumbnail: https://graph.facebook.com/127551558592838/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 640
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 33.858
+  tags: []
+  ts: 0
+- filename: ytub-HOgqKxEXWEo.webm
+  csvno: 73
+  type: youtube
+  token: HOgqKxEXWEo
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=HOgqKxEXWEo
+  embedded: https://www.youtube.com/embed/HOgqKxEXWEo?rel=0
+  thumbnail: https://i.ytimg.com/vi/HOgqKxEXWEo/hqdefault.jpg
+  author: Sunny Lam晴天林
+  providerTitle: 九月九日九龍城九校人鏈｜兆基 聖家 民生 培道 喇沙 瑪利諾 黃笏南 賽官 銀禧
+  title:
+  - content: 九龍城九校人鏈
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 230.281
+  tags: []
+  ts: 0
+- filename: ytub-BlAu5cfc2LE.mkv
+  csvno: 74
+  type: youtube
+  token: BlAu5cfc2LE
+  event: 907airport
+  cat: poviolent
+  date: 09-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=BlAu5cfc2LE
+  embedded: https://www.youtube.com/embed/BlAu5cfc2LE?rel=0
+  thumbnail: https://i.ytimg.com/vi/BlAu5cfc2LE/hqdefault.jpg
+  author: 有線電視 CABLE TV & 有線新聞 CABLE News
+  providerTitle: 907大埔墟站男學生被警棍打 有線新聞翻看事發前片段 - 20190909 - 香港新聞 - 有線新聞 CABLE News
+  title:
+  - content: 大埔墟站少年被多名警員圍打
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 156.688
+  tags: []
+  ts: 0
+- filename: ytub-H4xZV_XloKI.mp4
+  csvno: 75
+  type: youtube
+  token: H4xZV_XloKI
+  event: 901mourn
+  cat: movement
+  date: 09-06-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=H4xZV_XloKI
+  embedded: https://www.youtube.com/embed/H4xZV_XloKI?rel=0
+  thumbnail: https://i.ytimg.com/vi/H4xZV_XloKI/hqdefault.jpg
+  author: 方丈Backup
+  providerTitle: 906 旺角愛國人士拿菜刀斬人，與示威者衝突，刀手誤斬老婆後自己逃進屋內
+  title:
+  - content: 906 旺角愛國人士拿菜刀斬人
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 360.514
+  tags: []
+  ts: 0
+- filename: fbvi-355431145319149.mp4
+  csvno: 76
+  type: facebook-video
+  token: "355431145319149"
+  event: 213extradition
+  cat: announce-gov
+  date: 05-09-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=355431145319149
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/355431145319149
+  thumbnail: https://graph.facebook.com/355431145319149/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 208.237
+  tags: []
+  ts: 0
+- filename: ytub-7jXefi6vR2g.mp4
+  csvno: 77
+  type: youtube
+  token: 7jXefi6vR2g
+  event: 213extradition
+  cat: announce-gov
+  date: 05-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=7jXefi6vR2g
+  embedded: https://www.youtube.com/embed/7jXefi6vR2g?rel=0
+  thumbnail: https://i.ytimg.com/vi/7jXefi6vR2g/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.05.09【林鄭月娥稱回歸前逃犯條例】刻意排除大陸等言論全屬廢話
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 110.806
+  tags: []
+  ts: 0
+- filename: ytub-8sBMf6x0APY.mp4
+  csvno: 78
+  type: youtube
+  token: 8sBMf6x0APY
+  event: 606lawrally
+  cat: rally
+  date: 06-06-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=8sBMf6x0APY
+  embedded: https://www.youtube.com/embed/8sBMf6x0APY?rel=0
+  thumbnail: https://i.ytimg.com/vi/8sBMf6x0APY/hqdefault.jpg
+  author: SocREC 社會記錄頻道 @ Tham
+  providerTitle: 06JUN2019法律界 逃犯條例 說不.靜默遊行.終審法院遊行到政府總部查錫我大律師.黃國桐律師接受傳媒訪問
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 362.58
+  tags: []
+  ts: 0
+- filename: ytub-MaaqRewcsgw.mp4
+  csvno: 79
+  type: youtube
+  token: MaaqRewcsgw
+  event: 213extradition
+  cat: editorial
+  date: 04-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=MaaqRewcsgw
+  embedded: https://www.youtube.com/embed/MaaqRewcsgw?rel=0
+  thumbnail: https://i.ytimg.com/vi/MaaqRewcsgw/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.04.02 【逃犯條例】大律師公會再轟政府「漏洞」之說誤導、批修逃犯例後特首無足夠制衡
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 267.146
+  tags: []
+  ts: 0
+- filename: ytub-REV8APJB14s.mp4
+  csvno: 80
+  type: youtube
+  token: REV8APJB14s
+  event: 606lawrally
+  cat: rally
+  date: 06-06-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=REV8APJB14s
+  embedded: https://www.youtube.com/embed/REV8APJB14s?rel=0
+  thumbnail: https://i.ytimg.com/vi/REV8APJB14s/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.06.06【法律界遊行反修訂逃犯例】有大律師稱不信中國大陸司法
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 170.11
+  tags: []
+  ts: 0
+- filename: ytub-XglCub_-uao.mp4
+  csvno: 81
+  type: youtube
+  token: XglCub_-uao
+  event: unclassified
+  cat: pounlawful
+  date: 08-11-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=XglCub_-uao
+  embedded: https://www.youtube.com/embed/XglCub_-uao?rel=0
+  thumbnail: https://i.ytimg.com/vi/XglCub_-uao/hqdefault.jpg
+  author: Now News
+  providerTitle: 駱應淦：應即時成立獨立調查委員會
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 154.854
+  tags: []
+  ts: 0
+- filename: fbvi-526920768083496.mp4
+  csvno: 82
+  type: facebook-video
+  token: "526920768083496"
+  event: 831pedward
+  cat: pounlawful
+  date: 08-31-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=526920768083496
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/526920768083496
+  thumbnail: https://graph.facebook.com/526920768083496/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 360
+    width: 636
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 54.917
+  tags: []
+  ts: 0
+- filename: ytub-aNcuUPEGnsY.mp4
+  csvno: 83
+  type: youtube
+  token: aNcuUPEGnsY
+  event: 908rally
+  cat: petition
+  date: 09-08-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=aNcuUPEGnsY
+  embedded: https://www.youtube.com/embed/aNcuUPEGnsY?rel=0
+  thumbnail: https://i.ytimg.com/vi/aNcuUPEGnsY/hqdefault.jpg
+  author: 希望之聲國際廣播電台 SOH Current Affairs Comments 新聞熱點/名家談時事
+  providerTitle: 9.8“香港人權與民主祈禱會” 遊行代表宣讀致美国驻港總领事馆公开信
+  title:
+  - content: 908遊行代表宣讀致美國駐港總領事館公開信
+    locale: zh-Hant
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 215.807
+  tags: []
+  ts: 0
+- filename: ytub-SmR-Yk-ZISQ.mp4
+  csvno: 84
+  type: youtube
+  token: SmR-Yk-ZISQ
+  event: hkanthem
+  cat: movement
+  date: 09-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=SmR-Yk-ZISQ
+  embedded: https://www.youtube.com/embed/SmR-Yk-ZISQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/SmR-Yk-ZISQ/hqdefault.jpg
+  author: 志森與志豪
+  providerTitle: 2019/09/12/ 青衣城眾聲唱《願榮光歸香港》。聽一次感動一次。
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 111.271
+  tags: []
+  ts: 0
+- filename: ytub-6cG0wpEWiPg.mp4
+  csvno: 85
+  type: youtube
+  token: 6cG0wpEWiPg
+  event: 909chain
+  cat: motivate
+  date: 09-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=6cG0wpEWiPg
+  embedded: https://www.youtube.com/embed/6cG0wpEWiPg?rel=0
+  thumbnail: https://i.ytimg.com/vi/6cG0wpEWiPg/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 屯門區學界人鏈行動+各區《願榮光歸香港》大合唱
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 17422.814
+  tags: []
+  ts: 0
+- filename: fbvi-2419114328410664.mp4
+  csvno: 87
+  type: facebook-video
+  token: "2419114328410664"
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2419114328410664
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2419114328410664
+  thumbnail: https://graph.facebook.com/2419114328410664/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 139.217
+  tags: []
+  ts: 0
+- filename: ytub-mUPuQdmteRg.mp4
+  csvno: 88
+  type: youtube
+  token: mUPuQdmteRg
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=mUPuQdmteRg
+  embedded: https://www.youtube.com/embed/mUPuQdmteRg?rel=0
+  thumbnail: https://i.ytimg.com/vi/mUPuQdmteRg/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 【911】荃灣廣場，市民高唱《願榮光歸香港》
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 117.308
+  tags: []
+  ts: 0
+- filename: ytub-vUpbJzgWMlI.mp4
+  csvno: 89
+  type: youtube
+  token: vUpbJzgWMlI
+  event: hkanthem
+  cat: movement
+  date: 09-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=vUpbJzgWMlI
+  embedded: https://www.youtube.com/embed/vUpbJzgWMlI?rel=0
+  thumbnail: https://i.ytimg.com/vi/vUpbJzgWMlI/hqdefault.jpg
+  author: SYMEDIALAB新傳網
+  providerTitle: 《願榮光歸香港》時代廣場
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 59.745
+  tags: []
+  ts: 0
+- filename: ytub-WFjpBQ_R-hs.mkv
+  csvno: 90
+  type: youtube
+  token: WFjpBQ_R-hs
+  event: hkanthem
+  cat: movement
+  date: 09-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=WFjpBQ_R-hs
+  embedded: https://www.youtube.com/embed/WFjpBQ_R-hs?rel=0
+  thumbnail: https://i.ytimg.com/vi/WFjpBQ_R-hs/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 【Live】時代廣場千人聚集 接力唱《願榮光歸香港》
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 130.101
+  tags: []
+  ts: 0
+- filename: ytub-f0Ya-AQJ2Kc.mkv
+  csvno: 91
+  type: youtube
+  token: f0Ya-AQJ2Kc
+  event: unclassified
+  cat: movement
+  date: 09-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=f0Ya-AQJ2Kc
+  embedded: https://www.youtube.com/embed/f0Ya-AQJ2Kc?rel=0
+  thumbnail: https://i.ytimg.com/vi/f0Ya-AQJ2Kc/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 【逆權運動】開學禮變抗爭！何蔭棠中學奏國歌 學生高唱《Do You Hear the People Sing》
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 222.821
+  tags: []
+  ts: 0
+- filename: ytub-dHgrXsKPm-Q.mp4
+  csvno: 92
+  type: youtube
+  token: dHgrXsKPm-Q
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=dHgrXsKPm-Q
+  embedded: https://www.youtube.com/embed/dHgrXsKPm-Q?rel=0
+  thumbnail: https://i.ytimg.com/vi/dHgrXsKPm-Q/hqdefault.jpg
+  author: SocREC 社會記錄頻道 @ Tham
+  providerTitle: 11Sep 2019九龍灣淘大商場大合唱願榮光歸香港直播
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 3561.942
+  tags: []
+  ts: 0
+- filename: ytub-XHAsV0R4Kbw.mp4
+  csvno: 93
+  type: youtube
+  token: XHAsV0R4Kbw
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=XHAsV0R4Kbw
+  embedded: https://www.youtube.com/embed/XHAsV0R4Kbw?rel=0
+  thumbnail: https://i.ytimg.com/vi/XHAsV0R4Kbw/hqdefault.jpg
+  author: SocREC 社會記錄頻道 @ Tham
+  providerTitle: 21:01 11Sep2019 沙田. 新城市廣場，市民搖動手機 亮光市民合唱/願榮光歸香港
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 293.756
+  tags: []
+  ts: 0
+- filename: ytub-4WW_uYxJF0M.mp4
+  csvno: 94
+  type: youtube
+  token: 4WW_uYxJF0M
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=4WW_uYxJF0M
+  embedded: https://www.youtube.com/embed/4WW_uYxJF0M?rel=0
+  thumbnail: https://i.ytimg.com/vi/4WW_uYxJF0M/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 【9.11】新城市廣場高唱《願榮光歸香港》
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 125.458
+  tags: []
+  ts: 0
+- filename: ytub-92oPaRBuXZE.mp4
+  csvno: 95
+  type: youtube
+  token: 92oPaRBuXZE
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=92oPaRBuXZE
+  embedded: https://www.youtube.com/embed/92oPaRBuXZE?rel=0
+  thumbnail: https://i.ytimg.com/vi/92oPaRBuXZE/hqdefault.jpg
+  author: 希望之聲國際廣播電台 SOH Current Affairs Comments 新聞熱點/名家談時事
+  providerTitle: 9 11 荷里活廣場 數百市民大合唱
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 58.166
+  tags: []
+  ts: 0
+- filename: ytub-2pqKkYJd-HA.mp4
+  csvno: 97
+  type: youtube
+  token: 2pqKkYJd-HA
+  event: 831pedward
+  cat: announce-demo
+  date: 09-13-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=2pqKkYJd-HA
+  embedded: https://www.youtube.com/embed/2pqKkYJd-HA?rel=0
+  thumbnail: https://i.ytimg.com/vi/2pqKkYJd-HA/hqdefault.jpg
+  author: TMHK - Truth Media (Hong Kong)
+  providerTitle: 20190911 立法會議員毛孟靜披露831太子站事件消防行動紀錄 | TMHK News Live 新聞直播
+  title:
+  - content: 立法會議員毛孟靜記者會
+    locale: zh-Hant
+  desc:
+  - content: 披露831太子站事件消防行動紀錄
+    locale: zh-Hant
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 3126.823
+  tags: []
+  ts: 0
+- filename: fbvi-392878748293979.mp4
+  csvno: 98
+  type: facebook-video
+  token: "392878748293979"
+  event: hkanthem
+  cat: movement
+  date: 09-11-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=392878748293979
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/392878748293979
+  thumbnail: https://graph.facebook.com/392878748293979/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 360
+    width: 640
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 40.474
+  tags: []
+  ts: 0
+- filename: fbvi-2371565856437593.mp4
+  csvno: 99
+  type: facebook-video
+  token: "2371565856437593"
+  event: hkanthem
+  cat: movement
+  date: 09-13-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2371565856437593
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2371565856437593
+  thumbnail: https://graph.facebook.com/2371565856437593/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 98.153
+  tags: []
+  ts: 0
+- filename: fbvi-380721759273648.mp4
+  csvno: 100
+  type: facebook-video
+  token: "380721759273648"
+  event: 913midautumn
+  cat: overarrest
+  date: 09-13-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=380721759273648
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/380721759273648
+  thumbnail: https://graph.facebook.com/380721759273648/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 98.114
+  tags: []
+  ts: 0
+- filename: fbvi-503168480507462.mp4
+  csvno: 101
+  type: facebook-video
+  token: "503168480507462"
+  event: 909chain
+  cat: motivate
+  date: 09-09-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=503168480507462
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/503168480507462
+  thumbnail: https://graph.facebook.com/503168480507462/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 54.124
+  tags: []
+  ts: 0
+- filename: fbvi-645269155896535.mp4
+  csvno: 102
+  type: facebook-video
+  token: "645269155896535"
+  event: 520legco
+  cat: editorial
+  date: 05-12-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=645269155896535
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/645269155896535
+  thumbnail: https://graph.facebook.com/645269155896535/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 156.085
+  tags: []
+  ts: 0
+- filename: ytub-1HSSAhQ25ZQ.mp4
+  csvno: 103
+  type: youtube
+  token: 1HSSAhQ25ZQ
+  event: 520legco
+  cat: announce-gov
+  date: 05-25-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=1HSSAhQ25ZQ
+  embedded: https://www.youtube.com/embed/1HSSAhQ25ZQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/1HSSAhQ25ZQ/hqdefault.jpg
+  author: dotdotnews點新聞
+  providerTitle: 修訂逃犯條例| 林鄭月娥：恢復二讀的決定是艱難的
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 111.224
+  tags: []
+  ts: 0
+- filename: ytub-5xgLjtDAY5k.mkv
+  csvno: 104
+  type: youtube
+  token: 5xgLjtDAY5k
+  event: 520legco
+  cat: announce-gov
+  date: 05-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=5xgLjtDAY5k
+  embedded: https://www.youtube.com/embed/5xgLjtDAY5k?rel=0
+  thumbnail: https://i.ytimg.com/vi/5xgLjtDAY5k/hqdefault.jpg
+  author: MVM
+  providerTitle: 【直播】田北辰回應政府將『逃犯移交條例』直上大會進行二讀感到詫異（21/05/2019）
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1079.379
+  tags: []
+  ts: 0
+- filename: ytub-DkdRWo1XcEo.mkv
+  csvno: 105
+  type: youtube
+  token: DkdRWo1XcEo
+  event: 520legco
+  cat: announce-gov
+  date: 05-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=DkdRWo1XcEo
+  embedded: https://www.youtube.com/embed/DkdRWo1XcEo?rel=0
+  thumbnail: https://i.ytimg.com/vi/DkdRWo1XcEo/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.05.21 林鄭月娥：要求大會恢復二讀修訂逃犯條例屬艱難決定
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 103.189
+  tags: []
+  ts: 0
+- filename: ytub-dm894-8BheE.mkv
+  csvno: 106
+  type: youtube
+  token: dm894-8BheE
+  event: 520legco
+  cat: announce-gov
+  date: 05-24-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=dm894-8BheE
+  embedded: https://www.youtube.com/embed/dm894-8BheE?rel=0
+  thumbnail: https://i.ytimg.com/vi/dm894-8BheE/hqdefault.jpg
+  author: dotdotnews點新聞
+  providerTitle: 修訂逃犯條例｜內會表決通過！不反對《逃犯條例》恢復二讀
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 159.861
+  tags: []
+  ts: 0
+- filename: ytub-ULreRy1BLr8.webm
+  csvno: 107
+  type: youtube
+  token: ULreRy1BLr8
+  event: 520legco
+  cat: announce-gov
+  date: 05-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=ULreRy1BLr8
+  embedded: https://www.youtube.com/embed/ULreRy1BLr8?rel=0
+  thumbnail: https://i.ytimg.com/vi/ULreRy1BLr8/hqdefault.jpg
+  author: 政府新聞處 Information Services Department, HKSARG
+  providerTitle: 政府為法案恢復二讀辯論作準備 (4.6.2019)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 135.781
+  tags: []
+  ts: 0
+- filename: ytub-N3ecCJMh89g.webm
+  csvno: 108
+  type: youtube
+  token: N3ecCJMh89g
+  event: 609rally
+  cat: rally
+  date: 06-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=N3ecCJMh89g
+  embedded: https://www.youtube.com/embed/N3ecCJMh89g?rel=0
+  thumbnail: https://i.ytimg.com/vi/N3ecCJMh89g/hqdefault.jpg
+  author: BBC News 中文
+  providerTitle: 逃犯條例：香港百萬大遊行抗議修訂《逃犯條例》－ BBC News 中文 ｜一國兩制｜
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 77.921
+  tags: []
+  ts: 0
+- filename: ytub-GH4QlXDXREA.mp4
+  csvno: 109
+  type: youtube
+  token: GH4QlXDXREA
+  event: 616rally
+  cat: rally
+  date: 06-16-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=GH4QlXDXREA
+  embedded: https://www.youtube.com/embed/GH4QlXDXREA?rel=0
+  thumbnail: https://i.ytimg.com/vi/GH4QlXDXREA/hqdefault.jpg
+  author: TVBS NEWS
+  providerTitle: 「代我去遊行」　網傳港鐵車長廣播　鼓舞人心
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 103.701
+  tags: []
+  ts: 0
+- filename: ytub-ytr7b_Tkne0.mp4
+  csvno: 110
+  type: youtube
+  token: ytr7b_Tkne0
+  event: 616rally
+  cat: rally
+  date: 06-16-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=ytr7b_Tkne0
+  embedded: https://www.youtube.com/embed/ytr7b_Tkne0?rel=0
+  thumbnail: https://i.ytimg.com/vi/ytr7b_Tkne0/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: 史無前例二百萬人遊行反送中惡法中的感人一幕：遊行人士讓路給救護車經過如摩西過紅海
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 322.502
+  tags: []
+  ts: 0
+- filename: ytub-iPTZk7PWitI.mp4
+  csvno: 111
+  type: youtube
+  token: iPTZk7PWitI
+  event: 612strke
+  cat: poviolent
+  date: 06-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=iPTZk7PWitI
+  embedded: https://www.youtube.com/embed/iPTZk7PWitI?rel=0
+  thumbnail: https://i.ytimg.com/vi/iPTZk7PWitI/hqdefault.jpg
+  author: 寶勝傳媒GBSMedia
+  providerTitle: 視頻：香港警察暴行實錄 Hong Kong Police Brutality ————血腥鎮壓反送中抗議 Crackdown  peaceful
+    protest
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 737.606
+  tags: []
+  ts: 0
+- filename: ytub-nSLhXEatuhM.mp4
+  csvno: 112
+  type: youtube
+  token: nSLhXEatuhM
+  event: 612strke
+  cat: poviolent
+  date: 06-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=nSLhXEatuhM
+  embedded: https://www.youtube.com/embed/nSLhXEatuhM?rel=0
+  thumbnail: https://i.ytimg.com/vi/nSLhXEatuhM/hqdefault.jpg
+  author: simfeihk
+  providerTitle: 20190612 Hong Kong Police Brutality 香港警察暴行實錄
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 275.18
+  tags: []
+  ts: 0
+- filename: ytub-PyWr52Vqiog.mkv
+  csvno: 113
+  type: youtube
+  token: PyWr52Vqiog
+  event: 612strke
+  cat: pounlawful
+  date: 06-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=PyWr52Vqiog
+  embedded: https://www.youtube.com/embed/PyWr52Vqiog?rel=0
+  thumbnail: https://i.ytimg.com/vi/PyWr52Vqiog/hqdefault.jpg
+  author: ACM Tube
+  providerTitle: 【盟视界】香港議員捉到黑警，全部沒警號，委任證，問到姓名都不說話
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 99.219
+  tags: []
+  ts: 0
+- filename: ytub-t9aIbEG-KmY.mp4
+  csvno: 114
+  type: youtube
+  token: t9aIbEG-KmY
+  event: 606lawrally
+  cat: rally
+  date: 06-06-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=t9aIbEG-KmY
+  embedded: https://www.youtube.com/embed/t9aIbEG-KmY?rel=0
+  thumbnail: https://i.ytimg.com/vi/t9aIbEG-KmY/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: 「97以後最大爆發」法律界近三千人黑衣大遊行抗議港府強推送中惡法（逃犯條例修訂）（實錄精華）
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 935.231
+  tags: []
+  ts: 0
+- filename: ytub-lh4My_ne9xA.mkv
+  csvno: 115
+  type: youtube
+  token: lh4My_ne9xA
+  event: 609rally
+  cat: rally
+  date: 06-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=lh4My_ne9xA
+  embedded: https://www.youtube.com/embed/lh4My_ne9xA?rel=0
+  thumbnail: https://i.ytimg.com/vi/lh4My_ne9xA/hqdefault.jpg
+  author: Wong To Production
+  providerTitle: '20190609 anti-ELAB 反送中609遊行 #不撤不散'
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 59.821
+  tags: []
+  ts: 0
+- filename: ytub-T6vGO5kbmCo.mp4
+  csvno: 116
+  type: youtube
+  token: T6vGO5kbmCo
+  event: 609rally
+  cat: rally
+  date: 06-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=T6vGO5kbmCo
+  embedded: https://www.youtube.com/embed/T6vGO5kbmCo?rel=0
+  thumbnail: https://i.ytimg.com/vi/T6vGO5kbmCo/hqdefault.jpg
+  author: 明鏡火拍
+  providerTitle: 香港百万示威反送中，拒绝法治被送终（有现场视频） | 明镜焦点（20190609）
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 816.6
+  tags: []
+  ts: 0
+- filename: ytub-Un6xuT4pJJM.mp4
+  csvno: 117
+  type: youtube
+  token: Un6xuT4pJJM
+  event: 612strke
+  cat: poviolent
+  date: 06-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Un6xuT4pJJM
+  embedded: https://www.youtube.com/embed/Un6xuT4pJJM?rel=0
+  thumbnail: https://i.ytimg.com/vi/Un6xuT4pJJM/hqdefault.jpg
+  author: SokaVideos
+  providerTitle: A mother in Hong Kong protest. Eng sub 一個香港媽媽在反送中的遭遇
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 47.95
+  tags: []
+  ts: 0
+- filename: ytub-WE-3WH__uvQ.mkv
+  csvno: 118
+  type: youtube
+  token: WE-3WH__uvQ
+  event: 614assembly
+  cat: assembly
+  date: 06-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=WE-3WH__uvQ
+  embedded: https://www.youtube.com/embed/WE-3WH__uvQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/WE-3WH__uvQ/hqdefault.jpg
+  author: kaseng lui
+  providerTitle: 香港媽媽反送中大會香港媽媽城姐請特首下台
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 319.201
+  tags: []
+  ts: 0
+- filename: ytub-GrkBrnKWctY.mkv
+  csvno: 119
+  type: youtube
+  token: GrkBrnKWctY
+  event: 614assembly
+  cat: assembly
+  date: 06-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=GrkBrnKWctY
+  embedded: https://www.youtube.com/embed/GrkBrnKWctY?rel=0
+  thumbnail: https://i.ytimg.com/vi/GrkBrnKWctY/hqdefault.jpg
+  author: hkdavc
+  providerTitle: 「香港媽媽反送中集氣大會」 夏志誠主教分享 2019年6月14日
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 408.857
+  tags: []
+  ts: 0
+- filename: ytub-TQTT8m65rtk.mkv
+  csvno: 120
+  type: youtube
+  token: TQTT8m65rtk
+  event: 612strke
+  cat: poviolent
+  date: 06-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=TQTT8m65rtk
+  embedded: https://www.youtube.com/embed/TQTT8m65rtk?rel=0
+  thumbnail: https://i.ytimg.com/vi/TQTT8m65rtk/hqdefault.jpg
+  author: 志森與志豪
+  providerTitle: 20190612  612反送中集會。勇敢媽媽 良心力勸警察 全面播（中文字幕版。English subtitle CC）
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 454.001
+  tags: []
+  ts: 0
+- filename: ytub-xYthWQU3Q4k.mp4
+  csvno: 121
+  type: youtube
+  token: xYthWQU3Q4k
+  event: 615suspend
+  cat: announce-gov
+  date: 06-15-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=xYthWQU3Q4k
+  embedded: https://www.youtube.com/embed/xYthWQU3Q4k?rel=0
+  thumbnail: https://i.ytimg.com/vi/xYthWQU3Q4k/hqdefault.jpg
+  author: atomHK份子香港
+  providerTitle: 【反送中】6.15 龐大民憤 賣港林鄭穴蛾緩兵之計記者會『暫緩』修訂逃犯條例咪中計
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 4498.193
+  tags: []
+  ts: 0
+- filename: ytub-rU0CGezN3Mg.mp4
+  csvno: 122
+  type: youtube
+  token: rU0CGezN3Mg
+  event: 615lifeloss
+  cat: movement
+  date: 06-15-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=rU0CGezN3Mg
+  embedded: https://www.youtube.com/embed/rU0CGezN3Mg?rel=0
+  thumbnail: https://i.ytimg.com/vi/rU0CGezN3Mg/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.06.16 反修例男子太古廣場工作平台墮下死亡
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 26.541
+  tags: []
+  ts: 0
+- filename: ytub-ZkpZw6DAG7k.mp4
+  csvno: 123
+  type: youtube
+  token: ZkpZw6DAG7k
+  event: 615lifeloss
+  cat: movement
+  date: 06-15-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=ZkpZw6DAG7k
+  embedded: https://www.youtube.com/embed/ZkpZw6DAG7k?rel=0
+  thumbnail: https://i.ytimg.com/vi/ZkpZw6DAG7k/hqdefault.jpg
+  author: 三立iNEWS
+  providerTitle: 不自由毋寧死！港男高掛旗幟抗惡法不幸墜樓 民眾獻花哀悼反送中"烈士"｜記者 賴彥宏 謝抒珉 陳君傑｜【國際局勢。先知道】20190616｜三立iNEWS
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 91.743
+  tags: []
+  ts: 0
+- filename: ytub-8Nolcwy4u5I.webm
+  csvno: 124
+  type: youtube
+  token: 8Nolcwy4u5I
+  event: 615lifeloss
+  cat: movement
+  date: 06-15-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=8Nolcwy4u5I
+  embedded: https://www.youtube.com/embed/8Nolcwy4u5I?rel=0
+  thumbnail: https://i.ytimg.com/vi/8Nolcwy4u5I/hqdefault.jpg
+  author: share HK
+  providerTitle: 為抗爭而失去生命 我的烈士
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 37.221
+  tags: []
+  ts: 0
+- filename: ytub--tUKfubjAlA.mkv
+  csvno: 125
+  type: youtube
+  token: -tUKfubjAlA
+  event: 615lifeloss
+  cat: movement
+  date: 06-15-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=-tUKfubjAlA
+  embedded: https://www.youtube.com/embed/-tUKfubjAlA?rel=0
+  thumbnail: https://i.ytimg.com/vi/-tUKfubjAlA/hqdefault.jpg
+  author: Xuite
+  providerTitle: 【615 反送中義士以死明志影片備份】
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 37.268
+  tags: []
+  ts: 0
+- filename: ytub-HwLCnHeqLeM.mp4
+  csvno: 126
+  type: youtube
+  token: HwLCnHeqLeM
+  event: 621surroundpohead
+  cat: movement
+  date: 06-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=HwLCnHeqLeM
+  embedded: https://www.youtube.com/embed/HwLCnHeqLeM?rel=0
+  thumbnail: https://i.ytimg.com/vi/HwLCnHeqLeM/hqdefault.jpg
+  author: 有線電視 CABLE TV & 有線新聞 CABLE News
+  providerTitle: 警察總部被包圍 - 被困警務人員離開警察總部 - 有線新聞 i-Cable News
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 316.256
+  tags: []
+  ts: 0
+- filename: ytub-sCNwJqLKURo.mp4
+  csvno: 127
+  type: youtube
+  token: sCNwJqLKURo
+  event: 621surroundpohead
+  cat: movement
+  date: 06-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=sCNwJqLKURo
+  embedded: https://www.youtube.com/embed/sCNwJqLKURo?rel=0
+  thumbnail: https://i.ytimg.com/vi/sCNwJqLKURo/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 【現場報導】 入夜後包圍警察總部示威者情緒高漲
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 173.268
+  tags: []
+  ts: 0
+- filename: ytub--xFv5v1ftAg.mp4
+  csvno: 128
+  type: youtube
+  token: -xFv5v1ftAg
+  event: 621surroundpohead
+  cat: movement
+  date: 06-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=-xFv5v1ftAg
+  embedded: https://www.youtube.com/embed/-xFv5v1ftAg?rel=0
+  thumbnail: https://i.ytimg.com/vi/-xFv5v1ftAg/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: （反送中）三千人再包圍警察總部凌晨時分警方趁人少出擊清場 示威者轉移陣地到修頓球場持續反抗到天亮（1）
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 14194.87
+  tags: []
+  ts: 0
+- filename: ytub-QDGD7CBnTno.mkv
+  csvno: 129
+  type: youtube
+  token: QDGD7CBnTno
+  event: 621surroundpohead
+  cat: movement
+  date: 06-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=QDGD7CBnTno
+  embedded: https://www.youtube.com/embed/QDGD7CBnTno?rel=0
+  thumbnail: https://i.ytimg.com/vi/QDGD7CBnTno/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 【現場報導】警、民隔著玻璃門對罵　警員情緒失控
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 68.359
+  tags: []
+  ts: 0
+- filename: ytub-o3bAlev87dg.mkv
+  csvno: 130
+  type: youtube
+  token: o3bAlev87dg
+  event: 621surroundpohead
+  cat: movement
+  date: 06-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=o3bAlev87dg
+  embedded: https://www.youtube.com/embed/o3bAlev87dg?rel=0
+  thumbnail: https://i.ytimg.com/vi/o3bAlev87dg/hqdefault.jpg
+  author: Emilio Cheng
+  providerTitle: 'iCable: 便衣員警尤如喪家之犬 6.21 包圍警察總部片段'
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 169.701
+  tags: []
+  ts: 0
+- filename: ytub-S1jRboBOc08.mkv
+  csvno: 131
+  type: youtube
+  token: S1jRboBOc08
+  event: 626g20
+  cat: movement
+  date: 06-26-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=S1jRboBOc08
+  embedded: https://www.youtube.com/embed/S1jRboBOc08?rel=0
+  thumbnail: https://i.ytimg.com/vi/S1jRboBOc08/hqdefault.jpg
+  author: HK News Archive 香港新聞檔案室
+  providerTitle: 2019/06/27 逃犯條例 - 網民眾籌全球登報冀各國關注修例
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 138.001
+  tags: []
+  ts: 0
+- filename: ytub-BxSGdQS_bxA.mp4
+  csvno: 133
+  type: youtube
+  token: BxSGdQS_bxA
+  event: 626g20
+  cat: movement
+  date: 06-26-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=BxSGdQS_bxA
+  embedded: https://www.youtube.com/embed/BxSGdQS_bxA?rel=0
+  thumbnail: https://i.ytimg.com/vi/BxSGdQS_bxA/hqdefault.jpg
+  author: TVBS NEWS
+  providerTitle: G20前再出招！港人626上街頭　募款登報
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 137.88
+  tags: []
+  ts: 0
+- filename: fbph-123288129015635.jpg
+  csvno: 134
+  type: facebook-photo
+  token: "123288129015635"
+  event: 629lifeloss
+  cat: movement
+  date: 06-29-2019
+  source: ""
+  url: https://www.facebook.com/123288129015635
+  embedded: https://graph.facebook.com/123288129015635/picture
+  thumbnail: https://graph.facebook.com/123288129015635/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 405
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: fbph-123288149015633.jpg
+  csvno: 135
+  type: facebook-photo
+  token: "123288149015633"
+  event: 630lifeloss
+  cat: movement
+  date: 06-30-2019
+  source: ""
+  url: https://www.facebook.com/123288149015633
+  embedded: https://graph.facebook.com/123288149015633/picture
+  thumbnail: https://graph.facebook.com/123288149015633/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 405
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: ytub-rGCugc-P23o.mp4
+  csvno: 136
+  type: youtube
+  token: rGCugc-P23o
+  event: 701legco
+  cat: movement
+  date: 07-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=rGCugc-P23o
+  embedded: https://www.youtube.com/embed/rGCugc-P23o?rel=0
+  thumbnail: https://i.ytimg.com/vi/rGCugc-P23o/hqdefault.jpg
+  author: 有線電視 CABLE TV & 有線新聞 CABLE News
+  providerTitle: 立法會衝擊 - 示威者衝擊立會撞毀玻璃進入大樓 - 有線新聞 i-Cable News
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 451.095
+  tags: []
+  ts: 0
+- filename: ytub-Yijtdrp9dbM.mkv
+  csvno: 137
+  type: youtube
+  token: Yijtdrp9dbM
+  event: 701legco
+  cat: movement
+  date: 07-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Yijtdrp9dbM
+  embedded: https://www.youtube.com/embed/Yijtdrp9dbM?rel=0
+  thumbnail: https://i.ytimg.com/vi/Yijtdrp9dbM/hqdefault.jpg
+  author: BBC News 中文
+  providerTitle: 香港反逃犯條例示威：三名衝擊立法會黑衣青年的自白－ BBC News 中文
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 270.221
+  tags: []
+  ts: 0
+- filename: ytub-3XdyF2iYOok.webm
+  csvno: 138
+  type: youtube
+  token: 3XdyF2iYOok
+  event: 701legco
+  cat: movement
+  date: 07-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=3XdyF2iYOok
+  embedded: https://www.youtube.com/embed/3XdyF2iYOok?rel=0
+  thumbnail: https://i.ytimg.com/vi/3XdyF2iYOok/hqdefault.jpg
+  author: 壹週刊 NEXT
+  providerTitle: 【金鐘宣言】重組71佔領立法會全貌 抗爭者冒死接應同伴：我們是一家人，一齊回家！
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 386.941
+  tags: []
+  ts: 0
+- filename: ytub-VxZ1bJ-mLCo.mp4
+  csvno: 139
+  type: youtube
+  token: VxZ1bJ-mLCo
+  event: 701legco
+  cat: movement
+  date: 07-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=VxZ1bJ-mLCo
+  embedded: https://www.youtube.com/embed/VxZ1bJ-mLCo?rel=0
+  thumbnail: https://i.ytimg.com/vi/VxZ1bJ-mLCo/hqdefault.jpg
+  author: 依糕Eagle
+  providerTitle: 衝擊立法會 ！示威者死守立法會不走，最後被抬走！逃犯條例
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 600.306
+  tags: []
+  ts: 0
+- filename: ytub-Rrw9JS-qbXQ.mp4
+  csvno: 140
+  type: youtube
+  token: Rrw9JS-qbXQ
+  event: 701legco
+  cat: movement
+  date: 07-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Rrw9JS-qbXQ
+  embedded: https://www.youtube.com/embed/Rrw9JS-qbXQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/Rrw9JS-qbXQ/hqdefault.jpg
+  author: 有線電視 CABLE TV & 有線新聞 CABLE News
+  providerTitle: 立法會衝擊 - 立會公眾服務暫停至另行通知 - 有線新聞 i-Cable News
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 381.783
+  tags: []
+  ts: 0
+- filename: ytub-Bc--kpiXtkU.mp4
+  csvno: 141
+  type: youtube
+  token: Bc--kpiXtkU
+  event: 701legco
+  cat: movement
+  date: 07-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Bc--kpiXtkU
+  embedded: https://www.youtube.com/embed/Bc--kpiXtkU?rel=0
+  thumbnail: https://i.ytimg.com/vi/Bc--kpiXtkU/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.07.02【立會內示威者發表5點宣言】初步擬離會議廳回示威區
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 121.882
+  tags: []
+  ts: 0
+- filename: fbph-123288242348957.jpg
+  csvno: 142
+  type: facebook-photo
+  token: "123288242348957"
+  event: 703lifeloss
+  cat: movement
+  date: 07-03-2019
+  source: ""
+  url: https://www.facebook.com/123288242348957
+  embedded: https://graph.facebook.com/123288242348957/picture
+  thumbnail: https://graph.facebook.com/123288242348957/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 405
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: fbph-123288622348919.jpg
+  csvno: 143
+  type: facebook-photo
+  token: "123288622348919"
+  event: 722lifeloss
+  cat: movement
+  date: 07-22-2019
+  source: ""
+  url: https://www.facebook.com/123288622348919
+  embedded: https://graph.facebook.com/123288622348919/picture
+  thumbnail: https://graph.facebook.com/123288622348919/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 405
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 0
+  tags: []
+  ts: 0
+- filename: ytub-5TTChCM5l44.mkv
+  csvno: 144
+  type: youtube
+  token: 5TTChCM5l44
+  event: 706revivetm
+  cat: movement
+  date: 07-06-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=5TTChCM5l44
+  embedded: https://www.youtube.com/embed/5TTChCM5l44?rel=0
+  thumbnail: https://i.ytimg.com/vi/5TTChCM5l44/hqdefault.jpg
+  author: TVB USA Official
+  providerTitle: 千人遊行光復屯門公園 大媽嚇到避走廁所
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 205.141
+  tags: []
+  ts: 0
+- filename: ytub-ejyhbcJxtYI.mp4
+  csvno: 145
+  type: youtube
+  token: ejyhbcJxtYI
+  event: 707kwrally
+  cat: poabuse
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=ejyhbcJxtYI
+  embedded: https://www.youtube.com/embed/ejyhbcJxtYI?rel=0
+  thumbnail: https://i.ytimg.com/vi/ejyhbcJxtYI/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 77九龍大遊行後　警察驅散示威者態度粗暴（讀者提供影片）
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 55.612
+  tags: []
+  ts: 0
+- filename: ytub-LL2dUIRRs-A.mkv
+  csvno: 146
+  type: youtube
+  token: LL2dUIRRs-A
+  event: 707kwrally
+  cat: rally
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=LL2dUIRRs-A
+  embedded: https://www.youtube.com/embed/LL2dUIRRs-A?rel=0
+  thumbnail: https://i.ytimg.com/vi/LL2dUIRRs-A/hqdefault.jpg
+  author: SocREC 社會記錄頻道 @ Tham
+  providerTitle: 07jul2019 2009「九龍區大遊行」廣東道  市民包圍英籍指揮管陶輝Rupert Dove
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 206.741
+  tags: []
+  ts: 0
+- filename: ytub-8MuRz5ScjvY.mp4
+  csvno: 147
+  type: youtube
+  token: 8MuRz5ScjvY
+  event: 707kwrally
+  cat: rally
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=8MuRz5ScjvY
+  embedded: https://www.youtube.com/embed/8MuRz5ScjvY?rel=0
+  thumbnail: https://i.ytimg.com/vi/8MuRz5ScjvY/hqdefault.jpg
+  author: 時局放大鏡
+  providerTitle: 7 .7反送中九龍大遊行演變警民對峙 直擊大批防暴警手持盾牌在旺角一帶與示威者並爆發衝突示威者質疑警方執法沒帶委任證不是差佬 警員一句話令現場更火爆！～
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 644.795
+  tags: []
+  ts: 0
+- filename: ytub-_PXYeXKFmFo.mkv
+  csvno: 148
+  type: youtube
+  token: _PXYeXKFmFo
+  event: 707kwrally
+  cat: rally
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=_PXYeXKFmFo
+  embedded: https://www.youtube.com/embed/_PXYeXKFmFo?rel=0
+  thumbnail: https://i.ytimg.com/vi/_PXYeXKFmFo/hqdefault.jpg
+  author: SSKYNTV
+  providerTitle: 77九龍大遊行：警方旺角清場行動 PART 12
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 110.421
+  tags: []
+  ts: 0
+- filename: ytub-4DjzFXleZGo.mp4
+  csvno: 149
+  type: youtube
+  token: 4DjzFXleZGo
+  event: 707kwrally
+  cat: rally
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=4DjzFXleZGo
+  embedded: https://www.youtube.com/embed/4DjzFXleZGo?rel=0
+  thumbnail: https://i.ytimg.com/vi/4DjzFXleZGo/hqdefault.jpg
+  author: SETN三立新聞網
+  providerTitle: 反送中／九龍大遊行提前展開！香港黑潮再襲「擠爆車站」｜三立新聞網SETN.com
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 190.125
+  tags: []
+  ts: 0
+- filename: ytub-rtLYBZLPBxQ.mp4
+  csvno: 150
+  type: youtube
+  token: rtLYBZLPBxQ
+  event: 707kwrally
+  cat: attackpress
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=rtLYBZLPBxQ
+  embedded: https://www.youtube.com/embed/rtLYBZLPBxQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/rtLYBZLPBxQ/hqdefault.jpg
+  author: 明報 Mingpao
+  providerTitle: 【逃犯條例．九龍大遊行】警清場推撞記者
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 66.595
+  tags: []
+  ts: 0
+- filename: ytub-f8lmRaKWc10.mkv
+  csvno: 151
+  type: youtube
+  token: f8lmRaKWc10
+  event: 707kwrally
+  cat: rally
+  date: 07-07-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=f8lmRaKWc10
+  embedded: https://www.youtube.com/embed/f8lmRaKWc10?rel=0
+  thumbnail: https://i.ytimg.com/vi/f8lmRaKWc10/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: (直播)九龍反送中大遊行 廣東道不斷有市民斥責警方濫權違法
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 9405.08
+  tags: []
+  ts: 0
+- filename: ytub-EFrIBcQYOkI.mp4
+  csvno: 152
+  type: youtube
+  token: EFrIBcQYOkI
+  event: 709billdead
+  cat: announce-gov
+  date: 07-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=EFrIBcQYOkI
+  embedded: https://www.youtube.com/embed/EFrIBcQYOkI?rel=0
+  thumbnail: https://i.ytimg.com/vi/EFrIBcQYOkI/hqdefault.jpg
+  author: 東森新聞 CH51
+  providerTitle: 最新》林鄭月娥坦承修例「完全失敗」 送中條例「壽終正寢」
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 74.978
+  tags: []
+  ts: 0
+- filename: ytub-1zDXeJPLkLs.webm
+  csvno: 153
+  type: youtube
+  token: 1zDXeJPLkLs
+  event: 709billdead
+  cat: announce-gov
+  date: 07-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=1zDXeJPLkLs
+  embedded: https://www.youtube.com/embed/1zDXeJPLkLs?rel=0
+  thumbnail: https://i.ytimg.com/vi/1zDXeJPLkLs/hqdefault.jpg
+  author: 政府新聞處 Information Services Department, HKSARG
+  providerTitle: 特首：逃犯條例草案壽終正寢 (9.7.2019)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 192.621
+  tags: []
+  ts: 0
+- filename: ytub-7QqsXZl5EA8.mkv
+  csvno: 154
+  type: youtube
+  token: 7QqsXZl5EA8
+  event: 709billdead
+  cat: announce-gov
+  date: 07-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=7QqsXZl5EA8
+  embedded: https://www.youtube.com/embed/7QqsXZl5EA8?rel=0
+  thumbnail: https://i.ytimg.com/vi/7QqsXZl5EA8/hqdefault.jpg
+  author: KiniTV
+  providerTitle: 林郑月娥宣布逃犯条例“寿终正寝”
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 31.701
+  tags: []
+  ts: 0
+- filename: ytub-sfnEYYiOOZA.mp4
+  csvno: 155
+  type: youtube
+  token: sfnEYYiOOZA
+  event: 709billdead
+  cat: announce-gov
+  date: 07-09-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=sfnEYYiOOZA
+  embedded: https://www.youtube.com/embed/sfnEYYiOOZA?rel=0
+  thumbnail: https://i.ytimg.com/vi/sfnEYYiOOZA/hqdefault.jpg
+  author: 852郵報
+  providerTitle: 林鄭月娥見記者：宣布《逃犯條例》修訂已壽終正寢
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 3140.058
+  tags: []
+  ts: 0
+- filename: ytub-5Nw-u1f_zjY.mkv
+  csvno: 156
+  type: youtube
+  token: 5Nw-u1f_zjY
+  event: 714ntp
+  cat: poviolent
+  date: 07-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=5Nw-u1f_zjY
+  embedded: https://www.youtube.com/embed/5Nw-u1f_zjY?rel=0
+  thumbnail: https://i.ytimg.com/vi/5Nw-u1f_zjY/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 【反送中】714沙田「圍困戰」精華片段 警察突進商場 製造警民大戰衝突 多人受傷
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 417.561
+  tags: []
+  ts: 0
+- filename: ytub-RgsDtVtdX_g.mp4
+  csvno: 157
+  type: youtube
+  token: RgsDtVtdX_g
+  event: 714strally
+  cat: rally
+  date: 07-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=RgsDtVtdX_g
+  embedded: https://www.youtube.com/embed/RgsDtVtdX_g?rel=0
+  thumbnail: https://i.ytimg.com/vi/RgsDtVtdX_g/hqdefault.jpg
+  author: 新唐人電視臺
+  providerTitle: 【獨家專訪】香港影后葉德嫻 ：以前的警察不是這樣的
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 129.87
+  tags: []
+  ts: 0
+- filename: ytub-APRtERRlRVQ.mkv
+  csvno: 158
+  type: youtube
+  token: APRtERRlRVQ
+  event: 714ntp
+  cat: poviolent
+  date: 07-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=APRtERRlRVQ
+  embedded: https://www.youtube.com/embed/APRtERRlRVQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/APRtERRlRVQ/hqdefault.jpg
+  author: 石濤 TV – 聚焦 NEWS 濤哥侃電影
+  providerTitle: 《石濤聚焦》「7.14 沙田港警清場是假 被林鄭當狗送死是真」咬斷警司手指22歲青年獲保釋 現場視頻爆光 - 警司手指摳其鼻眼酷刑在先
+    咬指自衛 警方承認「民怨沸騰 香港大裂變」7.21集會變遊行
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1655.721
+  tags: []
+  ts: 0
+- filename: ytub-yrpBp6xNX2c.mkv
+  csvno: 159
+  type: youtube
+  token: yrpBp6xNX2c
+  event: 714ntp
+  cat: poviolent
+  date: 07-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=yrpBp6xNX2c
+  embedded: https://www.youtube.com/embed/yrpBp6xNX2c?rel=0
+  thumbnail: https://i.ytimg.com/vi/yrpBp6xNX2c/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 【突發時事新聞】7.14沙田反送中大遊行 晚上警察到沙田新城市廣場內進行清場行動其間出現混亂情況
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 53.281
+  tags: []
+  ts: 0
+- filename: ytub-BIGNF3D2mC0.mp4
+  csvno: 160
+  type: youtube
+  token: BIGNF3D2mC0
+  event: 714ntp
+  cat: poviolent
+  date: 07-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=BIGNF3D2mC0
+  embedded: https://www.youtube.com/embed/BIGNF3D2mC0?rel=0
+  thumbnail: https://i.ytimg.com/vi/BIGNF3D2mC0/hqdefault.jpg
+  author: Lvcatable Cat Chan
+  providerTitle: 【反送中、抗惡法】~ 7.14 沙田衝突 黑警包抄下示威者無路可走被捕
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 259.135
+  tags: []
+  ts: 0
+- filename: ytub-EwXsIaYlrsU.mp4
+  csvno: 161
+  type: youtube
+  token: EwXsIaYlrsU
+  event: 714strally
+  cat: rally
+  date: 07-14-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=EwXsIaYlrsU
+  embedded: https://www.youtube.com/embed/EwXsIaYlrsU?rel=0
+  thumbnail: https://i.ytimg.com/vi/EwXsIaYlrsU/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 20190714 沙田區大遊行
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 30439.387
+  tags: []
+  ts: 0
+- filename: ytub-mQ8tyBG9XPM.mkv
+  csvno: 162
+  type: youtube
+  token: mQ8tyBG9XPM
+  event: 717elderlyrally
+  cat: rally
+  date: 07-17-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=mQ8tyBG9XPM
+  embedded: https://www.youtube.com/embed/mQ8tyBG9XPM?rel=0
+  thumbnail: https://i.ytimg.com/vi/mQ8tyBG9XPM/hqdefault.jpg
+  author: Apollo Channel
+  providerTitle: 銀髮族 | 超感動7.17銀髮族大遊行  | 香港
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 273.421
+  tags: []
+  ts: 0
+- filename: ytub-XJHAALajc7Q.mkv
+  csvno: 163
+  type: youtube
+  token: XJHAALajc7Q
+  event: 717elderlyrally
+  cat: rally
+  date: 07-17-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=XJHAALajc7Q
+  embedded: https://www.youtube.com/embed/XJHAALajc7Q?rel=0
+  thumbnail: https://i.ytimg.com/vi/XJHAALajc7Q/hqdefault.jpg
+  author: 香港獨立媒體網
+  providerTitle: 【獨媒直播】7.17 香港銀髮族靜默遊行
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 8987.225
+  tags: []
+  ts: 0
+- filename: ytub-E7mhKxdjT50.mkv
+  csvno: 164
+  type: youtube
+  token: E7mhKxdjT50
+  event: 717elderlyrally
+  cat: rally
+  date: 07-17-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=E7mhKxdjT50
+  embedded: https://www.youtube.com/embed/E7mhKxdjT50?rel=0
+  thumbnail: https://i.ytimg.com/vi/E7mhKxdjT50/hqdefault.jpg
+  author: 奥斯卡朱
+  providerTitle: 【7月17日】銀髮族靜默遊行  ~溫柔的催淚彈~
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 433.681
+  tags: []
+  ts: 0
+- filename: ytub-V1uxtfr8FcM.mp4
+  csvno: 165
+  type: youtube
+  token: V1uxtfr8FcM
+  event: 831pedward
+  cat: announce-demo
+  date: 09-12-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=V1uxtfr8FcM
+  embedded: https://www.youtube.com/embed/V1uxtfr8FcM?rel=0
+  thumbnail: https://i.ytimg.com/vi/V1uxtfr8FcM/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 【直播】毛孟靜議員回應消防局記者會
+  title:
+  - content: 立法會議員毛孟靜記者會
+    locale: zh-Hant
+  desc:
+  - content: 回應消防局記者會
+    locale: zh-Hant
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1430.071
+  tags: []
+  ts: 0
+- filename: fbvi-2967105256639578.mp4
+  csvno: 166
+  type: facebook-video
+  token: "2967105256639578"
+  event: 914progov
+  cat: posupport
+  date: 09-14-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2967105256639578
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2967105256639578
+  thumbnail: https://graph.facebook.com/2967105256639578/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1920
+    width: 1080
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 128.339
+  tags: []
+  ts: 0
+- filename: fbvi-764329650694809.mp4
+  csvno: 167
+  type: facebook-video
+  token: "764329650694809"
+  event: 914progov
+  cat: posupport
+  date: 09-14-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=764329650694809
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/764329650694809
+  thumbnail: https://graph.facebook.com/764329650694809/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 640
+    width: 360
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 268.459
+  tags: []
+  ts: 0
+- filename: fbvi-488956238320484.mp4
+  csvno: 168
+  type: facebook-video
+  token: "488956238320484"
+  event: 914progov
+  cat: posupport
+  date: 09-14-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=488956238320484
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/488956238320484
+  thumbnail: https://graph.facebook.com/488956238320484/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1080
+    width: 1920
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 101.914
+  tags: []
+  ts: 0
+- filename: fbvi-453259815401779.mp4
+  csvno: 169
+  type: facebook-video
+  token: "453259815401779"
+  event: 823hkway
+  cat: motivate
+  date: 08-23-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=453259815401779
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/453259815401779
+  thumbnail: https://graph.facebook.com/453259815401779/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 43.261
+  tags: []
+  ts: 0
+- filename: fbvi-931405123872947.mp4
+  csvno: 170
+  type: facebook-video
+  token: "931405123872947"
+  event: 914progov
+  cat: posupport
+  date: 09-14-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=931405123872947
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/931405123872947
+  thumbnail: https://graph.facebook.com/931405123872947/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 720
+    width: 1280
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 100.939
+  tags: []
+  ts: 0
+- filename: fbvi-897003004007810.mp4
+  csvno: 171
+  type: facebook-video
+  token: "897003004007810"
+  event: 914progov
+  cat: potriad
+  date: 09-14-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=897003004007810
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/897003004007810
+  thumbnail: https://graph.facebook.com/897003004007810/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 1920
+    width: 1088
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 9.917
+  tags: []
+  ts: 0
+- filename: ytub-NqRCpHstb5A.mp4
+  csvno: 172
+  type: youtube
+  token: NqRCpHstb5A
+  event: 721rally
+  cat: rally
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=NqRCpHstb5A
+  embedded: https://www.youtube.com/embed/NqRCpHstb5A?rel=0
+  thumbnail: https://i.ytimg.com/vi/NqRCpHstb5A/hqdefault.jpg
+  author: 國情
+  providerTitle: 最新 !! NOW TV  6點新聞報道(民陣7.21遊行) (2019-7-21)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 717.149
+  tags: []
+  ts: 0
+- filename: ytub-E6P5HcsOUhM.mp4
+  csvno: 173
+  type: youtube
+  token: E6P5HcsOUhM
+  event: 721yuenlong
+  cat: potriad
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=E6P5HcsOUhM
+  embedded: https://www.youtube.com/embed/E6P5HcsOUhM?rel=0
+  thumbnail: https://i.ytimg.com/vi/E6P5HcsOUhM/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 7.21 元朗西鐵站出現多名白衣人突發事件 一度出現打鬥超混亂情況
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 2070.756
+  tags: []
+  ts: 0
+- filename: ytub-aciSq8cnhWM.mkv
+  csvno: 174
+  type: youtube
+  token: aciSq8cnhWM
+  event: 721yuenlong
+  cat: potriad
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=aciSq8cnhWM
+  embedded: https://www.youtube.com/embed/aciSq8cnhWM?rel=0
+  thumbnail: https://i.ytimg.com/vi/aciSq8cnhWM/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 7.21民陣大遊行 | 親北京議員何君堯為毆打市民的地區社團人士打氣
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 99.301
+  tags: []
+  ts: 0
+- filename: ytub-yfKX1C0spcM.mp4
+  csvno: 175
+  type: youtube
+  token: yfKX1C0spcM
+  event: 721rally
+  cat: rally
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=yfKX1C0spcM
+  embedded: https://www.youtube.com/embed/yfKX1C0spcM?rel=0
+  thumbnail: https://i.ytimg.com/vi/yfKX1C0spcM/hqdefault.jpg
+  author: 國情
+  providerTitle: 最新 !! (7pm)  有線新聞最前線(民陣7.21遊行) (2019-7-21)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1138.939
+  tags: []
+  ts: 0
+- filename: ytub-I6XM_APIUvQ.mp4
+  csvno: 176
+  type: youtube
+  token: I6XM_APIUvQ
+  event: 721liaison
+  cat: movement
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=I6XM_APIUvQ
+  embedded: https://www.youtube.com/embed/I6XM_APIUvQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/I6XM_APIUvQ/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 7.21民陣大遊行 | 包圍中聯辦
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 73.213
+  tags: []
+  ts: 0
+- filename: ytub-V0JLY7zcI38.mkv
+  csvno: 177
+  type: youtube
+  token: V0JLY7zcI38
+  event: 721rally
+  cat: editorial
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=V0JLY7zcI38
+  embedded: https://www.youtube.com/embed/V0JLY7zcI38?rel=0
+  thumbnail: https://i.ytimg.com/vi/V0JLY7zcI38/hqdefault.jpg
+  author: BBC News 中文
+  providerTitle: 香港逃犯條例 | 721全記錄：衝擊中聯辦，上環清場，元朗無差別襲擊－ BBC News 中文
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 640.241
+  tags: []
+  ts: 0
+- filename: ytub-qw8i-7-meHE.mp4
+  csvno: 178
+  type: youtube
+  token: qw8i-7-meHE
+  event: 721liaison
+  cat: movement
+  date: 07-21-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=qw8i-7-meHE
+  embedded: https://www.youtube.com/embed/qw8i-7-meHE?rel=0
+  thumbnail: https://i.ytimg.com/vi/qw8i-7-meHE/hqdefault.jpg
+  author: MPWeekly明周
+  providerTitle: 7.21 示威者包圍西區警署及中聯辦  守護孩子行動嘗試支援
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 61.255
+  tags: []
+  ts: 0
+- filename: ytub-NkYSG2lw0fo.mp4
+  csvno: 179
+  type: youtube
+  token: NkYSG2lw0fo
+  event: 726airport
+  cat: movement
+  date: 07-26-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=NkYSG2lw0fo
+  embedded: https://www.youtube.com/embed/NkYSG2lw0fo?rel=0
+  thumbnail: https://i.ytimg.com/vi/NkYSG2lw0fo/hqdefault.jpg
+  author: 852郵報
+  providerTitle: 7.26機場反送中集會　「Fight for Freedom. Stand with Hong Kong.」
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1400.094
+  tags: []
+  ts: 0
+- filename: ytub-GiVpCeUoICw.mp4
+  csvno: 180
+  type: youtube
+  token: GiVpCeUoICw
+  event: 726airport
+  cat: movement
+  date: 07-26-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=GiVpCeUoICw
+  embedded: https://www.youtube.com/embed/GiVpCeUoICw?rel=0
+  thumbnail: https://i.ytimg.com/vi/GiVpCeUoICw/hqdefault.jpg
+  author: 直播紐約郭聞
+  providerTitle: 7.26香港機場反送中反修例再集會 726和你飞 机场集会 几千人挤爆机场大堂 香港市民重申五大诉求 抗议警方暴力执法 元朗暴力事件
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 329.12
+  tags: []
+  ts: 0
+- filename: ytub-i7UmSFYYSNo.mkv
+  csvno: 181
+  type: youtube
+  token: i7UmSFYYSNo
+  event: 726airport
+  cat: movement
+  date: 07-26-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=i7UmSFYYSNo
+  embedded: https://www.youtube.com/embed/i7UmSFYYSNo?rel=0
+  thumbnail: https://i.ytimg.com/vi/i7UmSFYYSNo/hqdefault.jpg
+  author: HK Current Affairs
+  providerTitle: 7.26機場機會 Hong Kong International Airport Assembly
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 32.121
+  tags: []
+  ts: 0
+- filename: ytub-cqBhuN1vyZY.mp4
+  csvno: 182
+  type: youtube
+  token: cqBhuN1vyZY
+  event: 726airport
+  cat: movement
+  date: 07-26-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=cqBhuN1vyZY
+  embedded: https://www.youtube.com/embed/cqBhuN1vyZY?rel=0
+  thumbnail: https://i.ytimg.com/vi/cqBhuN1vyZY/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.07.26【香港國際機場 突發現場】航空界職員聚集機場接機大堂 要求成立獨立調查委員會
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 29.652
+  tags: []
+  ts: 0
+- filename: ytub-593BYwUq5NA.mp4
+  csvno: 183
+  type: youtube
+  token: 593BYwUq5NA
+  event: 727ylrally
+  cat: rally
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=593BYwUq5NA
+  embedded: https://www.youtube.com/embed/593BYwUq5NA?rel=0
+  thumbnail: https://i.ytimg.com/vi/593BYwUq5NA/hqdefault.jpg
+  author: NTDTVJP
+  providerTitle: 機動隊が市民を包囲 元朗「反暴力」抗議活動 （4）【香港デモ 7月27日】727元朗遊行南邊圍村現場軍裝防暴警與民對峙 警方不斷增援警力
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 105.466
+  tags: []
+  ts: 0
+- filename: ytub-Kp4wu3MpVww.mp4
+  csvno: 184
+  type: youtube
+  token: Kp4wu3MpVww
+  event: 727ylrally
+  cat: rally
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Kp4wu3MpVww
+  embedded: https://www.youtube.com/embed/Kp4wu3MpVww?rel=0
+  thumbnail: https://i.ytimg.com/vi/Kp4wu3MpVww/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 7.27元朗散步 | 黑衣人開始走出大馬路
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 57.818
+  tags: []
+  ts: 0
+- filename: ytub-ap8AnSZt-iw.mkv
+  csvno: 185
+  type: youtube
+  token: ap8AnSZt-iw
+  event: 727ylrally
+  cat: rally
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=ap8AnSZt-iw
+  embedded: https://www.youtube.com/embed/ap8AnSZt-iw?rel=0
+  thumbnail: https://i.ytimg.com/vi/ap8AnSZt-iw/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 28.8萬人元朗遊行 警民多次衝突
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 266.521
+  tags: []
+  ts: 0
+- filename: ytub-wNl1bXMvAHQ.mp4
+  csvno: 186
+  type: youtube
+  token: wNl1bXMvAHQ
+  event: 727ylrally
+  cat: poviolent
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=wNl1bXMvAHQ
+  embedded: https://www.youtube.com/embed/wNl1bXMvAHQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/wNl1bXMvAHQ/hqdefault.jpg
+  author: 時局放大鏡
+  providerTitle: 【現場直擊】7.27元朗反黑大遊行 南邊圍村現場 警方向示威者施放催淚彈
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 419.748
+  tags: []
+  ts: 0
+- filename: ytub-LWSkmOiuwuA.mkv
+  csvno: 187
+  type: youtube
+  token: LWSkmOiuwuA
+  event: 727ylrally
+  cat: poabuse
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=LWSkmOiuwuA
+  embedded: https://www.youtube.com/embed/LWSkmOiuwuA?rel=0
+  thumbnail: https://i.ytimg.com/vi/LWSkmOiuwuA/hqdefault.jpg
+  author: 有嘢要講
+  providerTitle: 727元朗反黑遊行 - 差人串咀查師奶，師奶完美還擊
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 132.321
+  tags: []
+  ts: 0
+- filename: ytub-RKVSSTidSxc.mp4
+  csvno: 188
+  type: youtube
+  token: RKVSSTidSxc
+  event: 727ylrally
+  cat: poviolent
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=RKVSSTidSxc
+  embedded: https://www.youtube.com/embed/RKVSSTidSxc?rel=0
+  thumbnail: https://i.ytimg.com/vi/RKVSSTidSxc/hqdefault.jpg
+  author: 時局放大鏡
+  providerTitle: 【現場直擊】7.27元朗反黑大遊行 南邊圍村現場 警方向示威者施放催淚彈清場
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 965.556
+  tags: []
+  ts: 0
+- filename: ytub-zQQaYr_sJpc.mp4
+  csvno: 189
+  type: youtube
+  token: zQQaYr_sJpc
+  event: 727ylrally
+  cat: attackpress
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=zQQaYr_sJpc
+  embedded: https://www.youtube.com/embed/zQQaYr_sJpc?rel=0
+  thumbnail: https://i.ytimg.com/vi/zQQaYr_sJpc/hqdefault.jpg
+  author: 有嘢要講
+  providerTitle: 727元朗反黑遊行 - 警察控制場面推開港台記者
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 59.978
+  tags: []
+  ts: 0
+- filename: ytub-EdFjYkMWDSM.mkv
+  csvno: 190
+  type: youtube
+  token: EdFjYkMWDSM
+  event: 727ylrally
+  cat: poviolent
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=EdFjYkMWDSM
+  embedded: https://www.youtube.com/embed/EdFjYkMWDSM?rel=0
+  thumbnail: https://i.ytimg.com/vi/EdFjYkMWDSM/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 【727元朗現場】警察元朗無差別近距離投擲催淚彈 煙霧彌漫民居安老院
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 105.221
+  tags: []
+  ts: 0
+- filename: ytub-axcnnd7fz8A.mp4
+  csvno: 191
+  type: youtube
+  token: axcnnd7fz8A
+  event: 727ylrally
+  cat: poviolent
+  date: 07-27-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=axcnnd7fz8A
+  embedded: https://www.youtube.com/embed/axcnnd7fz8A?rel=0
+  thumbnail: https://i.ytimg.com/vi/axcnnd7fz8A/hqdefault.jpg
+  author: 看中國 Vision Times
+  providerTitle: 鄺俊宇怒斥警方在老人院旁放催淚彈
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 172.966
+  tags: []
+  ts: 0
+- filename: ytub-yIch-WV_z0E.mp4
+  csvno: 192
+  type: youtube
+  token: yIch-WV_z0E
+  event: 728rally
+  cat: rally
+  date: 07-28-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=yIch-WV_z0E
+  embedded: https://www.youtube.com/embed/yIch-WV_z0E?rel=0
+  thumbnail: https://i.ytimg.com/vi/yIch-WV_z0E/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 7.28 上環 示威者和防暴警察對峙 橙牌警告 有發射催淚彈等狀況
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1271.27
+  tags: []
+  ts: 0
+- filename: ytub-dexhrw5_vwc.mp4
+  csvno: 193
+  type: youtube
+  token: dexhrw5_vwc
+  event: 728rally
+  cat: poviolent
+  date: 07-28-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=dexhrw5_vwc
+  embedded: https://www.youtube.com/embed/dexhrw5_vwc?rel=0
+  thumbnail: https://i.ytimg.com/vi/dexhrw5_vwc/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 7.28 上環 防暴警察施放催淚彈驅趕示威者
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 148.631
+  tags: []
+  ts: 0
+- filename: ytub-8UHQDnNskVc.mkv
+  csvno: 194
+  type: youtube
+  token: 8UHQDnNskVc
+  event: 728rally
+  cat: poviolent
+  date: 07-28-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=8UHQDnNskVc
+  embedded: https://www.youtube.com/embed/8UHQDnNskVc?rel=0
+  thumbnail: https://i.ytimg.com/vi/8UHQDnNskVc/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 7.28 高空拍攝上環  防暴警察驅散示威者情況
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 35.039
+  tags: []
+  ts: 0
+- filename: ytub-LlPEQicfHTI.webm
+  csvno: 195
+  type: youtube
+  token: LlPEQicfHTI
+  event: 728rally
+  cat: poviolent
+  date: 07-28-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=LlPEQicfHTI
+  embedded: https://www.youtube.com/embed/LlPEQicfHTI?rel=0
+  thumbnail: https://i.ytimg.com/vi/LlPEQicfHTI/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 【直擊728港警開槍】防暴警察上環狂射過百枚催淚彈（近期最多）、多名示威者受傷、血流遍地
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 522.261
+  tags: []
+  ts: 0
+- filename: ytub-TIr1hP2CRDo.mp4
+  csvno: 196
+  type: youtube
+  token: TIr1hP2CRDo
+  event: 728rally
+  cat: poviolent
+  date: 07-28-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=TIr1hP2CRDo
+  embedded: https://www.youtube.com/embed/TIr1hP2CRDo?rel=0
+  thumbnail: https://i.ytimg.com/vi/TIr1hP2CRDo/hqdefault.jpg
+  author: feature hk
+  providerTitle: 7.28 槍林上環
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 732.497
+  tags: []
+  ts: 0
+- filename: fbvi-721429664945114.mp4
+  csvno: 197
+  type: facebook-video
+  token: "721429664945114"
+  event: 802civilservant
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=721429664945114
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/721429664945114
+  thumbnail: https://graph.facebook.com/721429664945114/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 480
+    width: 848
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 30.815
+  tags: []
+  ts: 0
+- filename: ytub-_NMYZnQ8XmE.mp4
+  csvno: 198
+  type: youtube
+  token: _NMYZnQ8XmE
+  event: 730protest
+  cat: overarrest
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=_NMYZnQ8XmE
+  embedded: https://www.youtube.com/embed/_NMYZnQ8XmE?rel=0
+  thumbnail: https://i.ytimg.com/vi/_NMYZnQ8XmE/hqdefault.jpg
+  author: Longers hand
+  providerTitle: 7.30 包圍葵涌警署時不知為什麼要圍毆這人
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 552.659
+  tags: []
+  ts: 0
+- filename: ytub--9D6JSFp078.mkv
+  csvno: 199
+  type: youtube
+  token: -9D6JSFp078
+  event: 730protest
+  cat: poabuse
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=-9D6JSFp078
+  embedded: https://www.youtube.com/embed/-9D6JSFp078?rel=0
+  thumbnail: https://i.ytimg.com/vi/-9D6JSFp078/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 【現場突發】葵涌警署外一度混亂 警舉長槍指向示威者
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 289.141
+  tags: []
+  ts: 0
+- filename: ytub-qNedHill5Vg.mp4
+  csvno: 200
+  type: youtube
+  token: qNedHill5Vg
+  event: 730protest
+  cat: movement
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=qNedHill5Vg
+  embedded: https://www.youtube.com/embed/qNedHill5Vg?rel=0
+  thumbnail: https://i.ytimg.com/vi/qNedHill5Vg/hqdefault.jpg
+  author: 我要返火星
+  providerTitle: 7.30葵涌警署外數名警察與示威者發生衝突，警方且戰且退終於安全退回警署
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 217.223
+  tags: []
+  ts: 0
+- filename: ytub-aieFq8ZRXbA.mp4
+  csvno: 201
+  type: youtube
+  token: aieFq8ZRXbA
+  event: 730protest
+  cat: poabuse
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=aieFq8ZRXbA
+  embedded: https://www.youtube.com/embed/aieFq8ZRXbA?rel=0
+  thumbnail: https://i.ytimg.com/vi/aieFq8ZRXbA/hqdefault.jpg
+  author: Hong Kong is not China
+  providerTitle: （合集／7.30 葵涌警署）警多次舉長槍指向人群，並上膛瞄準示威者
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 79.854
+  tags: []
+  ts: 0
+- filename: ytub-XKspUe1CfLE.mp4
+  csvno: 202
+  type: youtube
+  token: XKspUe1CfLE
+  event: 730protest
+  cat: movement
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=XKspUe1CfLE
+  embedded: https://www.youtube.com/embed/XKspUe1CfLE?rel=0
+  thumbnail: https://i.ytimg.com/vi/XKspUe1CfLE/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 7.30 晚上數以百計網民包圍葵涌警署、聲援7.28上環衝突被捕人士
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 51.317
+  tags: []
+  ts: 0
+- filename: ytub--wLd1JJ_Rnk.mp4
+  csvno: 203
+  type: youtube
+  token: -wLd1JJ_Rnk
+  event: 730protest
+  cat: potriad
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=-wLd1JJ_Rnk
+  embedded: https://www.youtube.com/embed/-wLd1JJ_Rnk?rel=0
+  thumbnail: https://i.ytimg.com/vi/-wLd1JJ_Rnk/hqdefault.jpg
+  author: HKPPLS
+  providerTitle: 【反送中】(7.31)兩名少年疑被帶返天水圍警署，數百人包圍警署。其間一輛車駛經並向警署方向發射煙花爆竹，其後逃去。
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 612.148
+  tags: []
+  ts: 0
+- filename: ytub-g0y0hTBce1E.mp4
+  csvno: 204
+  type: youtube
+  token: g0y0hTBce1E
+  event: 730protest
+  cat: potriad
+  date: 07-30-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=g0y0hTBce1E
+  embedded: https://www.youtube.com/embed/g0y0hTBce1E?rel=0
+  thumbnail: https://i.ytimg.com/vi/g0y0hTBce1E/hqdefault.jpg
+  author: T.C.H
+  providerTitle: 7.31凌晨時份天水圍遭受神秘煙花恐怖襲擊
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 49.598
+  tags: []
+  ts: 0
+- filename: ytub-XUzgOFE4P8c.mp4
+  csvno: 205
+  type: youtube
+  token: XUzgOFE4P8c
+  event: 801assembly
+  cat: assembly
+  date: 08-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=XUzgOFE4P8c
+  embedded: https://www.youtube.com/embed/XUzgOFE4P8c?rel=0
+  thumbnail: https://i.ytimg.com/vi/XUzgOFE4P8c/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.08.01 金融界「快閃」集會促獨立調查站滿遮打花園
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 42.191
+  tags: []
+  ts: 0
+- filename: ytub-CdxQrBdeTfQ.mp4
+  csvno: 206
+  type: youtube
+  token: CdxQrBdeTfQ
+  event: 801assembly
+  cat: assembly
+  date: 08-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=CdxQrBdeTfQ
+  embedded: https://www.youtube.com/embed/CdxQrBdeTfQ?rel=0
+  thumbnail: https://i.ytimg.com/vi/CdxQrBdeTfQ/hqdefault.jpg
+  author: 希望之聲國際廣播電台 SOH Current Affairs Comments 新聞熱點/名家談時事
+  providerTitle: 四千金融界人士反送中快閃集會
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 321.272
+  tags: []
+  ts: 0
+- filename: ytub-u72ffhf6j0I.mp4
+  csvno: 207
+  type: youtube
+  token: u72ffhf6j0I
+  event: 801assembly
+  cat: assembly
+  date: 08-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=u72ffhf6j0I
+  embedded: https://www.youtube.com/embed/u72ffhf6j0I?rel=0
+  thumbnail: https://i.ytimg.com/vi/u72ffhf6j0I/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: 四千金融界人士遮打花園冒著大雨快閃集會撐反送中青年
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1125.866
+  tags: []
+  ts: 0
+- filename: ytub-RIuUGn3xUF8.mp4
+  csvno: 208
+  type: youtube
+  token: RIuUGn3xUF8
+  event: 801assembly
+  cat: assembly
+  date: 08-01-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=RIuUGn3xUF8
+  embedded: https://www.youtube.com/embed/RIuUGn3xUF8?rel=0
+  thumbnail: https://i.ytimg.com/vi/RIuUGn3xUF8/hqdefault.jpg
+  author: TMHK - Truth Media (Hong Kong)
+  providerTitle: 20190801 金融界「快閃」集會參與者接受傳媒訪問
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 305.227
+  tags: []
+  ts: 0
+- filename: ytub-E4oQoXNdJLY.mp4
+  csvno: 209
+  type: youtube
+  token: E4oQoXNdJLY
+  event: 802medical
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=E4oQoXNdJLY
+  embedded: https://www.youtube.com/embed/E4oQoXNdJLY?rel=0
+  thumbnail: https://i.ytimg.com/vi/E4oQoXNdJLY/hqdefault.jpg
+  author: 新視野
+  providerTitle: 「現場」醫療界白袍集會 不排除行動升級響應罷工
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 201.387
+  tags: []
+  ts: 0
+- filename: ytub-_riWF6uMHPA.mp4
+  csvno: 211
+  type: youtube
+  token: _riWF6uMHPA
+  event: 802medical
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=_riWF6uMHPA
+  embedded: https://www.youtube.com/embed/_riWF6uMHPA?rel=0
+  thumbnail: https://i.ytimg.com/vi/_riWF6uMHPA/hqdefault.jpg
+  author: 我係香港人HongKonger
+  providerTitle: 2019.08.02【有公立醫院醫生表示不想再有暴力】冀回應市民訴求
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 76.719
+  tags: []
+  ts: 0
+- filename: ytub-RugfPGSyrxM.mp4
+  csvno: 212
+  type: youtube
+  token: RugfPGSyrxM
+  event: 802civilservant
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=RugfPGSyrxM
+  embedded: https://www.youtube.com/embed/RugfPGSyrxM?rel=0
+  thumbnail: https://i.ytimg.com/vi/RugfPGSyrxM/hqdefault.jpg
+  author: 香港獨立媒體網
+  providerTitle: 【影像記錄】公務員中環遮打花園集會王永平台上講話
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 991.887
+  tags: []
+  ts: 0
+- filename: ytub-zVMRZE4S69Q.mp4
+  csvno: 213
+  type: youtube
+  token: zVMRZE4S69Q
+  event: 802civilservant
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=zVMRZE4S69Q
+  embedded: https://www.youtube.com/embed/zVMRZE4S69Q?rel=0
+  thumbnail: https://i.ytimg.com/vi/zVMRZE4S69Q/hqdefault.jpg
+  author: 852郵報
+  providerTitle: 8.2公務員集會：陳方安生稱非常敬佩與會公務員　以良知勇氣與市民同行
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 293.408
+  tags: []
+  ts: 0
+- filename: ytub-7-JpmkPD2do.mkv
+  csvno: 214
+  type: youtube
+  token: 7-JpmkPD2do
+  event: 802civilservant
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=7-JpmkPD2do
+  embedded: https://www.youtube.com/embed/7-JpmkPD2do?rel=0
+  thumbnail: https://i.ytimg.com/vi/7-JpmkPD2do/hqdefault.jpg
+  author: MPWeekly明周
+  providerTitle: 公僕集會締造歷史  上街進諫 不吐不快
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 323.721
+  tags: []
+  ts: 0
+- filename: ytub-hD2bFylj38A.mp4
+  csvno: 215
+  type: youtube
+  token: hD2bFylj38A
+  event: 802civilservant
+  cat: assembly
+  date: 08-02-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=hD2bFylj38A
+  embedded: https://www.youtube.com/embed/hD2bFylj38A?rel=0
+  thumbnail: https://i.ytimg.com/vi/hD2bFylj38A/hqdefault.jpg
+  author: HK News Archive 香港新聞檔案室
+  providerTitle: 2019/08/02 逃犯條例 - 公務員集會逾4萬人出席 (3)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 348.787
+  tags: []
+  ts: 0
+- filename: ytub-C2MwHyqx324.mkv
+  csvno: 216
+  type: youtube
+  token: C2MwHyqx324
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=C2MwHyqx324
+  embedded: https://www.youtube.com/embed/C2MwHyqx324?rel=0
+  thumbnail: https://i.ytimg.com/vi/C2MwHyqx324/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 8.3黃大仙衝突：黃大仙逆權女街坊，與防暴警理論
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 657.241
+  tags: []
+  ts: 0
+- filename: ytub-5Pfpg8xFnCo.mkv
+  csvno: 217
+  type: youtube
+  token: 5Pfpg8xFnCo
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=5Pfpg8xFnCo
+  embedded: https://www.youtube.com/embed/5Pfpg8xFnCo?rel=0
+  thumbnail: https://i.ytimg.com/vi/5Pfpg8xFnCo/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 8.3黃大仙現場：鎮暴警闖民居  被數千居民擊退
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 278.841
+  tags: []
+  ts: 0
+- filename: ytub-kmOqfpEkAew.mkv
+  csvno: 218
+  type: youtube
+  token: kmOqfpEkAew
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=kmOqfpEkAew
+  embedded: https://www.youtube.com/embed/kmOqfpEkAew?rel=0
+  thumbnail: https://i.ytimg.com/vi/kmOqfpEkAew/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 8.3黃大仙衝突：凌晨2時許，警察撤退返回黃大仙警署，街坊尾隨大罵
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 480.761
+  tags: []
+  ts: 0
+- filename: ytub-NclQTrumygs.mkv
+  csvno: 219
+  type: youtube
+  token: NclQTrumygs
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=NclQTrumygs
+  embedded: https://www.youtube.com/embed/NclQTrumygs?rel=0
+  thumbnail: https://i.ytimg.com/vi/NclQTrumygs/hqdefault.jpg
+  author: feature hk
+  providerTitle: 8.3 黃大仙黑夜保衛戰
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 888.501
+  tags: []
+  ts: 0
+- filename: ytub-LdnvA5YUic8.mp4
+  csvno: 220
+  type: youtube
+  token: LdnvA5YUic8
+  event: 803protest
+  cat: overarrest
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=LdnvA5YUic8
+  embedded: https://www.youtube.com/embed/LdnvA5YUic8?rel=0
+  thumbnail: https://i.ytimg.com/vi/LdnvA5YUic8/hqdefault.jpg
+  author: Dog Come TV
+  providerTitle: 黃大仙警署深夜爆發警民激戰！
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 191.217
+  tags: []
+  ts: 0
+- filename: ytub-RPm41H5YqLo.mkv
+  csvno: 221
+  type: youtube
+  token: RPm41H5YqLo
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=RPm41H5YqLo
+  embedded: https://www.youtube.com/embed/RPm41H5YqLo?rel=0
+  thumbnail: https://i.ytimg.com/vi/RPm41H5YqLo/hqdefault.jpg
+  author: 蘋果動新聞 HK Apple Daily
+  providerTitle: 20190804 直擊黃大仙情況
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 696.081
+  tags: []
+  ts: 0
+- filename: ytub-voNWuP1xUnU.mkv
+  csvno: 222
+  type: youtube
+  token: voNWuP1xUnU
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=voNWuP1xUnU
+  embedded: https://www.youtube.com/embed/voNWuP1xUnU?rel=0
+  thumbnail: https://i.ytimg.com/vi/voNWuP1xUnU/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 8.3黃大仙衝突：警察在黃大仙放催淚彈，有人用一隻碟蓋著。
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 110.941
+  tags: []
+  ts: 0
+- filename: ytub-AlEBUVSFukA.mkv
+  csvno: 223
+  type: youtube
+  token: AlEBUVSFukA
+  event: 803protest
+  cat: movement
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=AlEBUVSFukA
+  embedded: https://www.youtube.com/embed/AlEBUVSFukA?rel=0
+  thumbnail: https://i.ytimg.com/vi/AlEBUVSFukA/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 8.3黃大仙衝突：居民包圍警車，防暴警突落車揮棍打人，又向民眾射胡椒噴霧，在場居民很多沒有裝備，不斷大罵警察，叫他們離開
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 278.801
+  tags: []
+  ts: 0
+- filename: ytub-nVeWGAUoJM0.mkv
+  csvno: 224
+  type: youtube
+  token: nVeWGAUoJM0
+  event: 803protest
+  cat: pounlawful
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=nVeWGAUoJM0
+  embedded: https://www.youtube.com/embed/nVeWGAUoJM0?rel=0
+  thumbnail: https://i.ytimg.com/vi/nVeWGAUoJM0/hqdefault.jpg
+  author: 望神州香江
+  providerTitle: 黃大仙市民怒斥警察亂丟催淚彈要求出示委任證遭拒絕
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 346.121
+  tags: []
+  ts: 0
+- filename: ytub-7h27cAb_sT8.mp4
+  csvno: 225
+  type: youtube
+  token: 7h27cAb_sT8
+  event: 803protest
+  cat: poviolent
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=7h27cAb_sT8
+  embedded: https://www.youtube.com/embed/7h27cAb_sT8?rel=0
+  thumbnail: https://i.ytimg.com/vi/7h27cAb_sT8/hqdefault.jpg
+  author: RFA 自由亞洲粵語
+  providerTitle: 8.3 旺角再遊行/本台記者直擊警察武力清場一刻
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 135.93
+  tags: []
+  ts: 0
+- filename: ytub-BpMbY6cux7U.mp4
+  csvno: 226
+  type: youtube
+  token: BpMbY6cux7U
+  event: 803protest
+  cat: poabuse
+  date: 08-03-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=BpMbY6cux7U
+  embedded: https://www.youtube.com/embed/BpMbY6cux7U?rel=0
+  thumbnail: https://i.ytimg.com/vi/BpMbY6cux7U/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 【8.3旺角抗爭】立法局議員許智峯遭警察辱罵⋯⋯示威者被迫後退，警方釋放大量催淚彈。
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 63.275
+  tags: []
+  ts: 0
+- filename: fbvi-2372764936322910.mp4
+  csvno: 228
+  type: facebook-video
+  token: "2372764936322910"
+  event: 913midautumn
+  cat: movement
+  date: 09-13-2019
+  source: ""
+  url: https://www.facebook.com/watch/?v=2372764936322910
+  embedded: https://www.facebook.com/v2.3/plugins/video.php?href=https://www.facebook.com/redbull/videos/2372764936322910
+  thumbnail: https://graph.facebook.com/2372764936322910/picture
+  author: ""
+  providerTitle: ""
+  title: []
+  desc: []
+  dim:
+    height: 2160
+    width: 3840
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 45.762
+  tags: []
+  ts: 0
+- filename: ytub-Aa6BTMn-qa0.mp4
+  csvno: 229
+  type: youtube
+  token: Aa6BTMn-qa0
+  event: 804protest
+  cat: movement
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=Aa6BTMn-qa0
+  embedded: https://www.youtube.com/embed/Aa6BTMn-qa0?rel=0
+  thumbnail: https://i.ytimg.com/vi/Aa6BTMn-qa0/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 8.4 群眾佔據銅鑼灣告士打道
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 96.294
+  tags: []
+  ts: 0
+- filename: ytub-or-JJMKroQ0.mkv
+  csvno: 230
+  type: youtube
+  token: or-JJMKroQ0
+  event: 804protest
+  cat: poviolent
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=or-JJMKroQ0
+  embedded: https://www.youtube.com/embed/or-JJMKroQ0?rel=0
+  thumbnail: https://i.ytimg.com/vi/or-JJMKroQ0/hqdefault.jpg
+  author: 我要返火星
+  providerTitle: 8.4將軍澳街坊落街無辜被防爆警扑爆頭
+  title: []
+  desc: []
+  dim:
+    height: 344
+    width: 459
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 230.179
+  tags: []
+  ts: 0
+- filename: ytub-b-sIi_xjITM.mkv
+  csvno: 231
+  type: youtube
+  token: b-sIi_xjITM
+  event: 804protest
+  cat: poabuse
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=b-sIi_xjITM
+  embedded: https://www.youtube.com/embed/b-sIi_xjITM?rel=0
+  thumbnail: https://i.ytimg.com/vi/b-sIi_xjITM/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 被走光天水圍少女：羞辱我 再二度傷害我
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 130.641
+  tags: []
+  ts: 0
+- filename: ytub-0LOLTZZntec.mkv
+  csvno: 232
+  type: youtube
+  token: 0LOLTZZntec
+  event: 805strike
+  cat: movement
+  date: 08-06-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=0LOLTZZntec
+  embedded: https://www.youtube.com/embed/0LOLTZZntec?rel=0
+  thumbnail: https://i.ytimg.com/vi/0LOLTZZntec/hqdefault.jpg
+  author: Chan john
+  providerTitle: 805 天水圍抗議活動（精華片段）5 AUG 2019
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 396.841
+  tags: []
+  ts: 0
+- filename: ytub-fiXRB7VdalY.mp4
+  csvno: 233
+  type: youtube
+  token: fiXRB7VdalY
+  event: 804protest
+  cat: poabuse
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=fiXRB7VdalY
+  embedded: https://www.youtube.com/embed/fiXRB7VdalY?rel=0
+  thumbnail: https://i.ytimg.com/vi/fiXRB7VdalY/hqdefault.jpg
+  author: like qoo
+  providerTitle: 8月5日 天水圍女示威者被警扯下內褲
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 104.096
+  tags: []
+  ts: 0
+- filename: ytub-WsJTKjC4Bpk.mkv
+  csvno: 234
+  type: youtube
+  token: WsJTKjC4Bpk
+  event: 804protest
+  cat: poabuse
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=WsJTKjC4Bpk
+  embedded: https://www.youtube.com/embed/WsJTKjC4Bpk?rel=0
+  thumbnail: https://i.ytimg.com/vi/WsJTKjC4Bpk/hqdefault.jpg
+  author: 娛樂新一線
+  providerTitle: 【天水圍】少女甩褲被抬惹眾怒 逾百警天水圍戒備
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 321.421
+  tags: []
+  ts: 0
+- filename: ytub-yTIWzuFhaIk.mkv
+  csvno: 235
+  type: youtube
+  token: yTIWzuFhaIk
+  event: 804protest
+  cat: poviolent
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=yTIWzuFhaIk
+  embedded: https://www.youtube.com/embed/yTIWzuFhaIk?rel=0
+  thumbnail: https://i.ytimg.com/vi/yTIWzuFhaIk/hqdefault.jpg
+  author: 眾新聞
+  providerTitle: 8.4警方放催淚彈，銅鑼灣恍如戰場
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 191.361
+  tags: []
+  ts: 0
+- filename: ytub-UEZy3hcrsOc.mkv
+  csvno: 236
+  type: youtube
+  token: UEZy3hcrsOc
+  event: 804protest
+  cat: poviolent
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=UEZy3hcrsOc
+  embedded: https://www.youtube.com/embed/UEZy3hcrsOc?rel=0
+  thumbnail: https://i.ytimg.com/vi/UEZy3hcrsOc/hqdefault.jpg
+  author: 天藍世界 香港人香港事
+  providerTitle: 8.4全港多區示威集會，入夜不斷擴散，多區警署成為目標被包圍; 示威者打遊擊戰，堵路破壞交通燈; 防暴警察出動，密集式放催淚彈驅散示威者
+    (2019 08 04 十一點半新聞最前線 香港開電視)
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 1729.041
+  tags: []
+  ts: 0
+- filename: ytub-VD7285GdWKI.mp4
+  csvno: 237
+  type: youtube
+  token: VD7285GdWKI
+  event: 804protest
+  cat: movement
+  date: 08-04-2019
+  source: ""
+  url: https://www.youtube.com/watch?v=VD7285GdWKI
+  embedded: https://www.youtube.com/embed/VD7285GdWKI?rel=0
+  thumbnail: https://i.ytimg.com/vi/VD7285GdWKI/hqdefault.jpg
+  author: 香港大紀元新唐人聯合新聞頻道
+  providerTitle: 【8.4西環轉戰銅鑼灣】銅鑼灣SOGO對開馬路出現大量的示威者
+  title: []
+  desc: []
+  dim:
+    height: 270
+    width: 480
+  location:
+    address: ""
+    lat: 0
+    lng: 0
+  duration: 171.387
+  tags: []
+  ts: 0

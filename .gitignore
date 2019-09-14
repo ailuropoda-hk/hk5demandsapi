@@ -1,6 +1,8 @@
 private/
 backup/
-data/*.yaml
+data/*.csv
+data/visualdata/*
 vendor/
 hk5demandsapi
 hk5demandsapi.img
+.docker_temp_*
